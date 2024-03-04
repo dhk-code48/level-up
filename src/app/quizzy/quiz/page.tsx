@@ -14,7 +14,7 @@ import {
 import { useRouter } from "next/navigation";
 import { UserContext } from "@/context/ContextProvider";
 import getQuestion from "@/lib/generateRandomQuestions";
-import { onValue, ref, set } from "firebase/database";
+import { onValue, ref, serverTimestamp, set } from "firebase/database";
 import { db } from "@/firebase/config";
 import { shuffle } from "lodash";
 import Image from "next/image";
@@ -74,6 +74,7 @@ export default function Home() {
 
       set(ref(db, "quiz/rooms/" + roomId), {
         questions: shuffle(totalQuestion),
+        time: serverTimestamp(),
       });
     });
 
@@ -91,7 +92,7 @@ export default function Home() {
   };
 
   return (
-    <main className="w-[300px]">
+    <main className="w-[300px] subjective">
       <div className="flex flex-col  items-center gap-y-5">
         <Image
           className="animate-fade-up"
@@ -138,10 +139,13 @@ export default function Home() {
           </SelectGroup>
         </Select>
 
-        <Button className="w-full" onClick={handleJoinRoom}>
+        <Button
+          className="w-full bg-green-500 animate-pulse animate-infinite"
+          onClick={handleJoinRoom}
+        >
           Join Room
         </Button>
-        <Button className="w-full" onClick={handleCreateRoom}>
+        <Button className="w-full bg-blue-500" onClick={handleCreateRoom}>
           Create Room
         </Button>
       </div>

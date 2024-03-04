@@ -239,7 +239,7 @@ const Room = ({ params }: ParamsProps) => {
   }, [timer]);
 
   return (
-    <div>
+    <div className="subjective">
       {membersState.length === 0 ? (
         <h1>LOADING</h1>
       ) : (
@@ -379,14 +379,14 @@ const Room = ({ params }: ParamsProps) => {
             </>
           ) : (
             !finishGame && (
-              <main className="flex justify-start items-center flex-col">
+              <main className="flex justify-start items-center h-screen flex-col">
                 {/*   Title    */}
                 <Image
                   src="/picture/rapidfire_transparent.png"
-                  className="w-[200px] lg:w-auto"
                   alt="RAPIDFIRE LOGO"
                   width={582}
                   height={332}
+                  className="w-[200px] lg:w-[300px]"
                 />
 
                 <RoomMembers members={membersState} />
@@ -395,15 +395,15 @@ const Room = ({ params }: ParamsProps) => {
                   Room ID : {roomId}
                 </h1>
 
-                <button
+                <Button
                   onClick={() => socket.emit("startgame", roomId)}
                   disabled={
                     user.leader !== user.name || membersState.length === 1
                   }
-                  className="mt-5 block w-auto p-2 pb-0 mx-auto text-2xl font-semibold text-center text-white transition-all rounded-md bg-emerald-500 md:text-3xl btn-shadow hover:scale-105 active:scale-90"
+                  className="bg-green-500 animate-pulse animate-infinite pb-1"
                 >
                   START GAME
-                </button>
+                </Button>
               </main>
             )
           )}

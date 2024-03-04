@@ -58,8 +58,10 @@ export const suffix = [
   "th",
   "th",
 ];
-const PriceTable: FC<{ name: string }> = ({ name }) => {
-  const { kbc } = useContext(KBCContext);
+const PriceTable: FC<{ name: string; questionCounter: number }> = ({
+  name,
+  questionCounter,
+}) => {
   return (
     <SparkingBackground>
       <div className="fixed flex flex-col animate-fade-up space-y-10 justify-center items-center top-0 left-0 h-screen w-screen z-50">
@@ -68,9 +70,9 @@ const PriceTable: FC<{ name: string }> = ({ name }) => {
         </h1>
         <TrophyCard
           name={name}
-          count={priceCounter[kbc.questionCounter]}
-          suffix={suffix[kbc.questionCounter]}
-          score={score[kbc.questionCounter]}
+          count={priceCounter[questionCounter]}
+          suffix={suffix[questionCounter]}
+          score={score[questionCounter]}
         />
         {/* {priceCounter.map((price, index) => {
         console.log("Price = >  ", price);

@@ -9,12 +9,13 @@ import Timer from "@/components/kbc/Timer";
 import { KBCContext } from "@/context/KBCContext";
 import { db } from "@/firebase/config";
 import getKBCQuestions from "@/firebase/getKBCQuestions";
-import { onValue, ref } from "firebase/database";
+import { onValue, ref, set } from "firebase/database";
 import { shuffle } from "lodash";
 import Image from "next/image";
 import React, { FC, useContext, useEffect, useState } from "react";
 import GameFinished from "@/components/kbc/GameFinished";
 import { LucideCheck, LucideHeart, LucideHeartCrack } from "lucide-react";
+import { customAlphabet } from "nanoid";
 
 interface pageProps {
   params: {
@@ -139,6 +140,16 @@ const page: FC<pageProps> = ({ params }) => {
       }, 2000);
     }
   }
+  const nanoid = customAlphabet("0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ", 4);
+
+  useEffect(() => {
+    if (finishGame) {
+      set(ref(db, "kbc/" + nanoid()), {
+        userName: params.userName,
+        points: questionCounter * 100,
+      });
+    }
+  }, [finishGame]);
 
   // useEffect(() => {
   //   setTimeout(() => {
@@ -262,7 +273,9 @@ const page: FC<pageProps> = ({ params }) => {
   return (
     <div>
       {/* <KBCIntro /> */}
-      {!finishGame && pauseGame && <PriceTable name={params.userName} />}
+      {!finishGame && pauseGame && (
+        <PriceTable questionCounter={questionCounter} name={params.userName} />
+      )}
       {finishGame ? (
         <GameFinished name={params.userName} />
       ) : (
@@ -281,10 +294,10 @@ const page: FC<pageProps> = ({ params }) => {
           {!pauseGame && questions && (
             <div className="z-20 flex flex-col justify-end items-center h-screen pb-32 animate-fade-up">
               <div className="flex gap-x-10">
-                <button className="bg-[#204A8B] border-4 border-[#AA9049] h-15 lg:w-24 w-15 p-5 lg:p-0 lg:pb-1 timer cursor-pointer mb-0 font-bold text-lg  flex items-center lg:items-end justify-center rounded-b-full lg:rounded-b-none rounded-t-full ">
+                <button className="bg-[#204A8B] text-white border-4 border-[#AA9049] h-15 lg:w-24 w-15 p-5 lg:p-0 lg:pb-1 timer cursor-pointer mb-0 font-bold text-lg  flex items-center lg:items-end justify-center rounded-b-full lg:rounded-b-none rounded-t-full ">
                   {heartLifeLine ? <LucideHeart /> : <LucideHeartCrack />}
                 </button>
-                <div className="h-12 lg:w-20 bg-[#204A8B] border-4 border-[#AA9049] w-12 p-5 lg:p-0 lg:pb-1 timer cursor-pointer mb-0 font-bold text-lg  flex items-center lg:items-end justify-center rounded-b-full lg:rounded-b-none rounded-t-full">
+                <div className="h-12 lg:w-20 text-white bg-[#204A8B] border-4 border-[#AA9049] w-12 p-5 lg:p-0 lg:pb-1 timer cursor-pointer mb-0 font-bold text-lg  flex items-center lg:items-end justify-center rounded-b-full lg:rounded-b-none rounded-t-full">
                   <p className="animate-ping animate-infinite animate-duration-1000  animate-delay-1000 animate-ease-linear animate-normal">
                     {timer}
                   </p>
@@ -292,7 +305,7 @@ const page: FC<pageProps> = ({ params }) => {
                 <button
                   onClick={handleFiftyFifty}
                   disabled={fiftyfiftyLifeLine}
-                  className="bg-[#204A8B] border-4 border-[#AA9049] h-15 lg:w-24 w-15 p-5 lg:p-0 lg:pb-1 timer cursor-pointer mb-0 font-bold text-lg  flex items-center lg:items-end justify-center rounded-b-full lg:rounded-b-none rounded-t-full "
+                  className="bg-[#204A8B] text-white border-4 border-[#AA9049] h-15 lg:w-24 w-15 p-5 lg:p-0 lg:pb-1 timer cursor-pointer mb-0 font-bold text-lg  flex items-center lg:items-end justify-center rounded-b-full lg:rounded-b-none rounded-t-full "
                 >
                   {fiftyfiftyLifeLine ? <LucideCheck /> : <p>50 / 50</p>}
                 </button>

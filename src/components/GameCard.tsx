@@ -16,8 +16,8 @@ export function GameCard({
 }) {
   return (
     <Link href={link}>
-      <CardContainer className="inter-var cursor-pointer animate-fade animate-once">
-        <CardBody className="bg-background relative group/card  dark:hover:shadow-2xl dark:hover:shadow-emerald-500/[0.1] dark:bg-black dark:border-white/[0.2] border-black/[0.1] w-auto sm:w-[400px] h-auto rounded-xl p-6 border  ">
+      <CardContainer className="animate-pulse animate-infinite inter-var cursor-pointer">
+        <CardBody className="bg-slate-900 relative group/card  dark:hover:shadow-2xl dark:hover:shadow-emerald-500/[0.1] dark:bg-black dark:border-white/[0.2] border-black/[0.1] w-auto sm:w-[400px] h-auto rounded-xl p-6 border  ">
           <CardItem
             translateZ="50"
             className="text-xl font-bold text-neutral-200 dark:text-white"

@@ -6,7 +6,7 @@ import { customAlphabet } from "nanoid";
 import { useRouter } from "next/navigation";
 import { UserContext } from "@/context/ContextProvider";
 import getQuestion from "@/lib/generateRandomQuestions";
-import { onValue, ref, set } from "firebase/database";
+import { onValue, ref, serverTimestamp, set } from "firebase/database";
 import { db } from "@/firebase/config";
 import generateRandomQuestions from "@/lib/generateRandomQuestions";
 import Image from "next/image";
@@ -76,6 +76,7 @@ export default function Home() {
 
       set(ref(db, "rapidfire/rooms/" + roomId), {
         questions: shuffle(totalQuestion),
+        time: serverTimestamp(),
       });
     });
 
@@ -102,7 +103,7 @@ export default function Home() {
           alt="user avatar"
           className="animate-fade-up"
         />
-        <input
+        <Input
           type="text"
           placeholder="Name *"
           value={name}
@@ -110,7 +111,7 @@ export default function Home() {
           className="p-2 pb-1 animate-fade-up w-full text-lg border-2 text-black border-black rounded-md outline-0 btn-shadow"
         />
         {nameError && <p className="text-red-600">Enter Name</p>}
-        <input
+        <Input
           type="text"
           placeholder="Room ID"
           value={joinId}
@@ -146,7 +147,7 @@ export default function Home() {
           Join Room
         </Button>
         <Button
-          className="animate-fade animate-once w-full"
+          className="animate-fade animate-once w-full bg-blue-500"
           onClick={handleCreateRoom}
         >
           Create Room
