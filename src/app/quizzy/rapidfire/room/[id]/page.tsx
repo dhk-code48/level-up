@@ -159,7 +159,8 @@ const Room = ({ params }: ParamsProps) => {
         bg[1] = "red";
         bg[2] = "red";
         bg[3] = "red";
-        bg[parseInt(questions[counter].correctAnswer)] = "green";
+        if(questions[counter]?.correctAnswer){
+          bg[parseInt(questions[counter].correctAnswer)] = "green";}
         setBgColors(bg);
       }
 

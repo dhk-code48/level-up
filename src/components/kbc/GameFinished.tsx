@@ -49,7 +49,7 @@ const GameFinished: FC<{
       />
       <div className="space-x-5 fixed w-screen flex items-center justify-center gap-x-5 bottom-10 left-auto right-auto z-50">
                     <Button
-                      onClick={()=>router.push("/quizzy/quiz")}
+                      onClick={()=>router.push("/quizzy/kbc")}
                       className={buttonVariants({ className: "bg-green-500" })}
                     >
                       Play Again

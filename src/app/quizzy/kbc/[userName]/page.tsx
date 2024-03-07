@@ -66,7 +66,8 @@ const KBCGAME: FC<pageProps> = ({ params }) => {
 
   function handleOptionClick(correct: boolean, index: number) {
     console.log(correct);
-    if (correct) {
+  if(questions){
+      if (correct) {
       let bg = [...bgColors];
       bg[0] = "none";
       bg[1] = "none";
@@ -99,6 +100,7 @@ const KBCGAME: FC<pageProps> = ({ params }) => {
       bg[2] = "none";
       bg[3] = "none";
       bg[index] = "red";
+      bg[parseInt(questions[questionCounter].correctAnswer)] = "green";
       setBgColors(bg);
       setDisableAllOption(true);
 
@@ -126,6 +128,7 @@ const KBCGAME: FC<pageProps> = ({ params }) => {
       bg[2] = "none";
       bg[3] = "none";
       bg[index] = "red";
+      bg[parseInt(questions[questionCounter].correctAnswer)] = "green";
       setBgColors(bg);
 
       setTimeout(() => {
@@ -134,6 +137,7 @@ const KBCGAME: FC<pageProps> = ({ params }) => {
         setBgColors(["none", "none", "none", "none"]);
       }, 2000);
     }
+  }
   }
   const nanoid = customAlphabet("0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ", 4);
 
