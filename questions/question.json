@@ -1,0 +1,1550 @@
+{
+  "questions": [
+    {
+      "correctAnswer": 1,
+      "level": "moderate",
+      "options": [
+        "Gautama Buddha",
+        "Prithvi Narayan Shah",
+        "King Birendra",
+        "Siddhartha Gautama"
+      ],
+      "question": "Who is considered the founder of modern Nepal?"
+    },
+    {
+      "correctAnswer": 2,
+      "level": "moderate",
+      "options": ["Mount Everest", "Kangchenjunga", "Makalu", "Annapurna"],
+      "question": "Which is the third highest mountain in the world and lies partially in Nepal?"
+    },
+    {
+      "correctAnswer": 1,
+      "level": "moderate",
+      "options": ["Ghurkhas", "Sherpas", "Tamangs", "Newars"],
+      "question": "Which ethnic group is known for their skilled mountaineering?"
+    },
+    {
+      "correctAnswer": 0,
+      "level": "moderate",
+      "options": ["Buddha Jayanti", "Tihar", "Holi", "Maha Shivaratri"],
+      "question": "Which festival celebrates the birth of Siddhartha Gautama?"
+    },
+    {
+      "correctAnswer": 2,
+      "level": "moderate",
+      "options": ["Kumari", "Rani", "Maharani", "Devi"],
+      "question": "What is the title given to the living goddess of Kathmandu?"
+    },
+    {
+      "correctAnswer": 1,
+      "level": "moderate",
+      "options": ["Karnali", "Koshi", "Bagmati", "Narayani"],
+      "question": "Which is the longest river in Nepal?"
+    },
+    {
+      "correctAnswer": 0,
+      "level": "moderate",
+      "options": ["Lumbini", "Janakpur", "Kapilavastu", "Tansen"],
+      "question": "Which UNESCO World Heritage Site in Nepal is associated with the birth of Buddha?"
+    },
+    {
+      "correctAnswer": 3,
+      "level": "moderate",
+      "options": ["Manaslu", "Cho Oyu", "Dhaulagiri", "Kangchenjunga"],
+      "question": "Which is the eighth highest mountain in the world and lies partially in Nepal?"
+    },
+    {
+      "correctAnswer": 1,
+      "level": "moderate",
+      "options": ["Pashupatinath", "Swayambhunath", "Boudhanath", "Lumbini"],
+      "question": "Which famous Hindu temple complex is located in Kathmandu?"
+    },
+    {
+      "correctAnswer": 2,
+      "level": "moderate",
+      "options": ["Arun", "Langtang", "Makalu", "Gosainkunda"],
+      "question": "Which is not a national park in Nepal?"
+    },
+    {
+      "correctAnswer": 0,
+      "level": "moderate",
+      "options": [
+        "Tenzing Norgay",
+        "Edmund Hillary",
+        "Reinhold Messner",
+        "Junko Tabei"
+      ],
+      "question": "Who was the first person to reach the summit of Mount Everest?"
+    },
+    {
+      "correctAnswer": 1,
+      "level": "moderate",
+      "options": ["Yeti", "Kangaroo", "Bigfoot", "Nessie"],
+      "question": "What mythical creature is said to inhabit the Himalayas, especially in Nepal?"
+    },
+    {
+      "correctAnswer": 3,
+      "level": "moderate",
+      "options": [
+        "Everest Marathon",
+        "Annapurna Circuit Trek",
+        "Langtang Valley Trek",
+        "Manaslu Circuit Trek"
+      ],
+      "question": "Which trekking route in Nepal offers a close view of the eighth highest mountain in the world?"
+    },
+    {
+      "correctAnswer": 2,
+      "level": "moderate",
+      "options": ["Maithili", "Nepali", "Newari", "Bhojpuri"],
+      "question": "Which language is spoken by the majority of people in Nepal?"
+    },
+    {
+      "correctAnswer": 0,
+      "level": "moderate",
+      "options": ["Momo", "Dal Bhat", "Sel Roti", "Gundruk"],
+      "question": "What is the name of the traditional Nepali dumplings?"
+    },
+    {
+      "correctAnswer": 3,
+      "level": "moderate",
+      "options": [
+        "Anuradha Koirala",
+        "Bindhya Basini",
+        "Khadga Prasad Sharma Oli",
+        "Bidya Devi Bhandari"
+      ],
+      "question": "Who is the first female President of Nepal?"
+    },
+    {
+      "correctAnswer": 1,
+      "level": "moderate",
+      "options": ["Manang", "Rara", "Gokyo", "Phewa"],
+      "question": "Which is the largest lake in Nepal?"
+    },
+    {
+      "correctAnswer": 0,
+      "level": "moderate",
+      "options": ["Tansen", "Bhaktapur", "Lumbini", "Janakpur"],
+      "question": "Which city in Nepal is known as 'The Darjeeling of Nepal'?"
+    },
+    {
+      "correctAnswer": 1,
+      "level": "moderate",
+      "options": ["Biratnagar", "Bhairahawa", "Birgunj", "Butwal"],
+      "question": "Which city in Nepal is known as 'The Gateway to the Himalayas'?"
+    },
+    {
+      "correctAnswer": 2,
+      "level": "moderate",
+      "options": [
+        "Everest Base Camp",
+        "Annapurna Base Camp",
+        "Kangchenjunga Base Camp",
+        "Makalu Base Camp"
+      ],
+      "question": "Which trekking destination is known as 'The Roof of the World'?"
+    },
+    {
+      "correctAnswer": 0,
+      "level": "moderate",
+      "options": [
+        "Lukla Airport",
+        "Tenzing-Hillary Airport",
+        "Pokhara Airport",
+        "Biratnagar Airport"
+      ],
+      "question": "Which airport in Nepal is considered one of the most dangerous airports in the world?"
+    },
+    {
+      "correctAnswer": 3,
+      "level": "moderate",
+      "options": ["Shiva", "Vishnu", "Brahma", "Ganesha"],
+      "question": "Which Hindu god is worshipped as the deity of destruction?"
+    },
+    {
+      "correctAnswer": 0,
+      "level": "moderate",
+      "options": ["Mustang", "Solukhumbu", "Dolpo", "Humla"],
+      "question": "Which region in Nepal is known as 'The Forbidden Kingdom'?"
+    },
+    {
+      "correctAnswer": 1,
+      "level": "moderate",
+      "options": ["Rupakot", "Sarangkot", "Ghandruk", "Nagarkot"],
+      "question": "Which hill station near Pokhara offers panoramic views of the Annapurna Range?"
+    },
+    {
+      "correctAnswer": 0,
+      "level": "moderate",
+      "options": [
+        "Tenzing Norgay National Adventure Award",
+        "Tenzing Norgay Himalayan Adventure Award",
+        "Tenzing Norgay Everest Adventure Award",
+        "Tenzing Norgay Mountaineering Adventure Award"
+      ],
+      "question": "What is the highest adventure award given by the Government of Nepal?"
+    },
+    {
+      "correctAnswer": 2,
+      "level": "moderate",
+      "options": ["Chitwan", "Sagarmatha", "Langtang", "Makalu"],
+      "question": "Which national park is home to the endangered one-horned rhinoceros?"
+    },
+    {
+      "correctAnswer": 3,
+      "level": "moderate",
+      "options": ["Khukuri", "Kukri", "Khopi", "Kurkuri"],
+      "question": "What is the traditional Nepali curved knife called?"
+    },
+    {
+      "correctAnswer": 0,
+      "level": "moderate",
+      "options": [
+        "Buddha Air",
+        "Yeti Airlines",
+        "Nepal Airlines",
+        "Simrik Airlines"
+      ],
+      "question": "Which airline is known as the largest domestic airline in Nepal?"
+    },
+    {
+      "correctAnswer": 1,
+      "level": "moderate",
+      "options": [
+        "Bhanu Bhakta Acharya",
+        "Laxmi Prasad Devkota",
+        "B.P. Koirala",
+        "Mahakavi Devkota"
+      ],
+      "question": "Who is known as the 'Adikavi' or 'First Poet' of Nepal?"
+    },
+    {
+      "correctAnswer": 0,
+      "level": "moderate",
+      "options": ["Sita", "Draupadi", "Parvati", "Radha"],
+      "question": "According to Hindu mythology, who is the wife of Lord Ram?"
+    },
+    {
+      "correctAnswer": 1,
+      "level": "moderate",
+      "options": ["Chautari", "Chowk", "Bazaar", "Chautal"],
+      "question": "What is a traditional Nepali resting place usually found in villages?"
+    },
+    {
+      "correctAnswer": 0,
+      "level": "moderate",
+      "options": [
+        "Vijaya Dashami",
+        "Buddha Jayanti",
+        "Indra Jatra",
+        "Gai Jatra"
+      ],
+      "question": "Which festival is also known as Dashain in Nepal?"
+    },
+    {
+      "correctAnswer": 3,
+      "level": "moderate",
+      "options": ["Annapurna", "Kangchenjunga", "Lhotse", "Manaslu"],
+      "question": "Which of the following mountains is not a part of the Annapurna Range?"
+    },
+    {
+      "correctAnswer": 2,
+      "level": "moderate",
+      "options": [
+        "Tenzing Norgay",
+        "Pasang Lhamu Sherpa",
+        "Babu Chiri Sherpa",
+        "Apa Sherpa"
+      ],
+      "question": "Who holds the record for the most Everest summits by any person?"
+    },
+    {
+      "correctAnswer": 0,
+      "level": "moderate",
+      "options": ["Bhaktapur", "Patan", "Kirtipur", "Gorkha"],
+      "question": "Which city in Nepal is known for its fine pottery and wood carving?"
+    },
+    {
+      "correctAnswer": 1,
+      "level": "moderate",
+      "options": [
+        "Pashupatinath Temple",
+        "Swayambhunath Stupa",
+        "Boudhanath Stupa",
+        "Changunarayan Temple"
+      ],
+      "question": "Which UNESCO World Heritage Site is also known as the 'Monkey Temple'?"
+    },
+    {
+      "correctAnswer": 2,
+      "level": "moderate",
+      "options": ["Rapti", "Budhi Gandaki", "Bagmati", "Koshi"],
+      "question": "Which river is known as 'The River of Sorrow'?"
+    },
+    {
+      "correctAnswer": 0,
+      "level": "moderate",
+      "options": ["Kangchenjunga", "Makalu", "Dhaulagiri", "Annapurna"],
+      "question": "Which of the following mountains lies entirely in Nepal?"
+    },
+    {
+      "correctAnswer": 3,
+      "level": "moderate",
+      "options": ["Bhaktapur", "Patan", "Birgunj", "Lalitpur"],
+      "question": "Which city in Nepal is known as 'The City of Fine Arts'?"
+    },
+    {
+      "correctAnswer": 1,
+      "level": "moderate",
+      "options": ["Rupandehi", "Morang", "Sunsari", "Jhapa"],
+      "question": "In which district is Lumbini, the birthplace of Buddha, located?"
+    },
+    {
+      "correctAnswer": 0,
+      "level": "moderate",
+      "options": [
+        "Shikhar Dhawan",
+        "Sandeep Lamichhane",
+        "Rohit Sharma",
+        "Virat Kohli"
+      ],
+      "question": "Which Nepali cricketer became the first to take a hat-trick in T20 International cricket?"
+    },
+    {
+      "correctAnswer": 1,
+      "level": "moderate",
+      "options": [
+        "Nepal Sambat",
+        "Bikram Sambat",
+        "Shakya Sambat",
+        "Shakambhari Sambat"
+      ],
+      "question": "Which lunar calendar is used in Nepal as the official calendar?"
+    },
+    {
+      "correctAnswer": 0,
+      "level": "moderate",
+      "options": ["Dhaka Topi", "Topi", "Ghale Topi", "Daura Suruwal"],
+      "question": "Which traditional Nepali cap is worn during cultural ceremonies and festivals?"
+    },
+    {
+      "correctAnswer": 3,
+      "level": "moderate",
+      "options": ["Vishnu", "Shiva", "Brahma", "Ganesha"],
+      "question": "Which Hindu god is known as the 'Remover of Obstacles'?"
+    },
+    {
+      "correctAnswer": 0,
+      "level": "moderate",
+      "options": ["Bhaktapur", "Patan", "Kirtipur", "Lalitpur"],
+      "question": "Which city in Nepal is known for its rich cultural heritage and Newari architecture?"
+    },
+    {
+      "correctAnswer": 1,
+      "level": "moderate",
+      "options": ["Gosainkunda", "Muktinath", "Manakamana", "Tal Barahi"],
+      "question": "Which Hindu pilgrimage site is located in the Mustang district of Nepal?"
+    },
+    {
+      "correctAnswer": 0,
+      "level": "moderate",
+      "options": ["Baglung", "Dhankuta", "Baitadi", "Dailekh"],
+      "question": "In which district is Dhorpatan Hunting Reserve located?"
+    },
+    {
+      "correctAnswer": 3,
+      "level": "moderate",
+      "options": ["Rara Lake", "Fewa Lake", "Gosaikunda Lake", "Gokyo Lake"],
+      "question": "Which lake is the largest in Nepal?"
+    },
+    {
+      "correctAnswer": 0,
+      "level": "moderate",
+      "options": ["Sagarmatha", "Annapurna", "Dhaulagiri", "Manaslu"],
+      "question": "What is the Nepali name for Mount Everest?"
+    },
+    {
+      "correctAnswer": 1,
+      "level": "moderate",
+      "options": [
+        "Himalayan Cat",
+        "Himalayan Monal",
+        "Red Panda",
+        "Snow Leopard"
+      ],
+      "question": "Which animal is the national symbol of Nepal?"
+    },
+    {
+      "correctAnswer": 0,
+      "level": "moderate",
+      "options": [
+        "Prachanda",
+        "Madhav Kumar Nepal",
+        "Baburam Bhattarai",
+        "Sher Bahadur Deuba"
+      ],
+      "question": "Which politician served as the Prime Minister of Nepal during the Maoist insurgency?"
+    },
+    {
+      "correctAnswer": 1,
+      "level": "moderate",
+      "options": [
+        "Mount Makalu",
+        "Mount Annapurna",
+        "Mount Manaslu",
+        "Mount Dhaulagiri"
+      ],
+      "question": "Which mountain is known as the 'Mountain of the Spirit'?"
+    },
+    {
+      "correctAnswer": 1,
+      "level": "hard",
+      "options": ["Vesuvius", "Mount Tambora", "Krakatoa", "Mount St. Helens"],
+      "question": "Which volcano's eruption in 1815 is considered the most powerful in recorded history?"
+    },
+    {
+      "correctAnswer": 3,
+      "level": "hard",
+      "options": [
+        "Blue Whale",
+        "African Elephant",
+        "Giraffe",
+        "Saltwater Crocodile"
+      ],
+      "question": "Which animal has the strongest bite force in the world?"
+    },
+    {
+      "correctAnswer": 2,
+      "level": "hard",
+      "options": ["Chicago", "Toronto", "Los Angeles", "New York City"],
+      "question": "Which city is known as the 'Windy City'?"
+    },
+    {
+      "correctAnswer": 1,
+      "level": "hard",
+      "options": [
+        "Albert Einstein",
+        "Isaac Newton",
+        "Galileo Galilei",
+        "Stephen Hawking"
+      ],
+      "question": "Who developed the theory of relativity?"
+    },
+    {
+      "correctAnswer": 0,
+      "level": "hard",
+      "options": [
+        "The Great Wall of China",
+        "Machu Picchu",
+        "Taj Mahal",
+        "Colosseum"
+      ],
+      "question": "Which of the following is not one of the Seven Wonders of the Ancient World?"
+    },
+    {
+      "correctAnswer": 2,
+      "level": "hard",
+      "options": ["The Sun", "The Moon", "Venus", "Mars"],
+      "question": "Which planet is known as the 'Evening Star'?"
+    },
+    {
+      "correctAnswer": 3,
+      "level": "hard",
+      "options": ["Haiti", "El Salvador", "Honduras", "Nicaragua"],
+      "question": "Which Central American country's capital is Tegucigalpa?"
+    },
+    {
+      "correctAnswer": 0,
+      "level": "hard",
+      "options": [
+        "Lake Superior",
+        "Lake Victoria",
+        "Great Bear Lake",
+        "Caspian Sea"
+      ],
+      "question": "Which lake is the largest freshwater lake by surface area in the world?"
+    },
+    {
+      "correctAnswer": 1,
+      "level": "hard",
+      "options": ["Leonardo da Vinci", "Michelangelo", "Raphael", "Donatello"],
+      "question": "Who painted the ceiling of the Sistine Chapel?"
+    },
+    {
+      "correctAnswer": 2,
+      "level": "hard",
+      "options": [
+        "René Descartes",
+        "Immanuel Kant",
+        "Baruch Spinoza",
+        "Friedrich Nietzsche"
+      ],
+      "question": "Who is known for the philosophical statement 'Cogito, ergo sum'?"
+    },
+    {
+      "correctAnswer": 0,
+      "level": "hard",
+      "options": ["The Nile", "The Amazon", "The Mississippi", "The Yangtze"],
+      "question": "Which river is the longest in the world?"
+    },
+    {
+      "correctAnswer": 3,
+      "level": "hard",
+      "options": [
+        "October Revolution",
+        "Glorious Revolution",
+        "French Revolution",
+        "American Revolution"
+      ],
+      "question": "Which revolution led to the overthrow of the Russian monarchy and the establishment of the Soviet Union?"
+    },
+    {
+      "correctAnswer": 2,
+      "level": "hard",
+      "options": [
+        "Kingdom of Judah",
+        "Kingdom of Israel",
+        "Holy Roman Empire",
+        "Ottoman Empire"
+      ],
+      "question": "Which ancient kingdom was ruled by King Solomon?"
+    },
+    {
+      "correctAnswer": 0,
+      "level": "hard",
+      "options": ["Socrates", "Plato", "Aristotle", "Pythagoras"],
+      "question": "Who was the teacher of Plato?"
+    },
+    {
+      "correctAnswer": 3,
+      "level": "hard",
+      "options": ["Barbados", "Jamaica", "Trinidad and Tobago", "Grenada"],
+      "question": "Which Caribbean island nation is known as the 'Spice Isle'?"
+    },
+    {
+      "correctAnswer": 1,
+      "level": "hard",
+      "options": ["Uruguay", "Argentina", "Paraguay", "Chile"],
+      "question": "Which South American country is known as the 'Land of Silver'?"
+    },
+    {
+      "correctAnswer": 2,
+      "level": "hard",
+      "options": ["Lisbon", "Barcelona", "Madrid", "Rome"],
+      "question": "Which European capital city is located on the Tagus River?"
+    },
+    {
+      "correctAnswer": 0,
+      "level": "hard",
+      "options": ["Madagascar", "Seychelles", "Maldives", "Mauritius"],
+      "question": "Which island nation is home to the world's largest lemur, the Indri?"
+    },
+    {
+      "correctAnswer": 1,
+      "level": "hard",
+      "options": [
+        "The Shawshank Redemption",
+        "The Godfather",
+        "Schindler's List",
+        "Pulp Fiction"
+      ],
+      "question": "Which movie won the Academy Award for Best Picture in 1994?"
+    },
+    {
+      "correctAnswer": 0,
+      "level": "hard",
+      "options": ["Chad", "Niger", "Mali", "Burkina Faso"],
+      "question": "Which African country's flag consists of three vertical stripes of blue, yellow, and red?"
+    },
+    {
+      "correctAnswer": 2,
+      "level": "hard",
+      "options": [
+        "James Watt",
+        "Thomas Edison",
+        "Nikola Tesla",
+        "Albert Einstein"
+      ],
+      "question": "Who is known as the 'Father of Radio'?"
+    },
+
+    {
+      "correctAnswer": 0,
+      "level": "hard",
+      "options": [
+        "Niagara Falls",
+        "Victoria Falls",
+        "Angel Falls",
+        "Iguazu Falls"
+      ],
+      "question": "Which waterfall is located on the border between Canada and the United States?"
+    },
+    {
+      "correctAnswer": 1,
+      "level": "hard",
+      "options": ["Tchaikovsky", "Beethoven", "Mozart", "Bach"],
+      "question": "Who composed the '1812 Overture'?"
+    },
+    {
+      "correctAnswer": 3,
+      "level": "hard",
+      "options": ["Hawaii", "Puerto Rico", "Guam", "American Samoa"],
+      "question": "Which U.S. state or territory is not located on the North American mainland?"
+    },
+    {
+      "correctAnswer": 2,
+      "level": "hard",
+      "options": [
+        "Marie Curie",
+        "Galileo Galilei",
+        "Isaac Newton",
+        "Albert Einstein"
+      ],
+      "question": "Who was the first woman to win a Nobel Prize?"
+    },
+    {
+      "correctAnswer": 0,
+      "level": "hard",
+      "options": ["Switzerland", "Sweden", "Norway", "Denmark"],
+      "question": "Which European country is known as the 'Land of the Midnight Sun'?"
+    },
+    {
+      "correctAnswer": 1,
+      "level": "hard",
+      "options": ["Cape Town", "Johannesburg", "Pretoria", "Durban"],
+      "question": "Which city is the legislative capital of South Africa?"
+    },
+    {
+      "correctAnswer": 0,
+      "level": "hard",
+      "options": [
+        "Pacific Ocean",
+        "Indian Ocean",
+        "Atlantic Ocean",
+        "Arctic Ocean"
+      ],
+      "question": "Which ocean is the largest and deepest ocean on Earth?"
+    },
+    {
+      "correctAnswer": 3,
+      "level": "hard",
+      "options": ["Brazil", "Mexico", "Argentina", "Colombia"],
+      "question": "Which South American country has the largest population?"
+    },
+    {
+      "correctAnswer": 2,
+      "level": "hard",
+      "options": [
+        "Niels Bohr",
+        "Erwin Schrödinger",
+        "Werner Heisenberg",
+        "Max Planck"
+      ],
+      "question": "Who formulated the uncertainty principle in quantum mechanics?"
+    },
+    {
+      "correctAnswer": 0,
+      "level": "hard",
+      "options": ["The Himalayas", "The Alps", "The Andes", "The Rockies"],
+      "question": "Which mountain range is home to Mount Everest?"
+    },
+    {
+      "correctAnswer": 1,
+      "level": "hard",
+      "options": ["Brazil", "Russia", "China", "United States"],
+      "question": "Which country is the largest by land area?"
+    },
+    {
+      "correctAnswer": 0,
+      "level": "hard",
+      "options": [
+        "The Mona Lisa",
+        "Starry Night",
+        "The Scream",
+        "The Persistence of Memory"
+      ],
+      "question": "Which painting is housed in the Louvre Museum in Paris?"
+    },
+    {
+      "correctAnswer": 3,
+      "level": "hard",
+      "options": ["El Salvador", "Costa Rica", "Belize", "Panama"],
+      "question": "Which Central American country does not have a coastline on the Pacific Ocean?"
+    },
+    {
+      "correctAnswer": 2,
+      "level": "hard",
+      "options": ["Russia", "Canada", "China", "United States"],
+      "question": "Which country has the longest border with the United States?"
+    },
+    {
+      "correctAnswer": 0,
+      "level": "hard",
+      "options": [
+        "Moby-Dick",
+        "The Great Gatsby",
+        "To Kill a Mockingbird",
+        "War and Peace"
+      ],
+      "question": "Which novel begins with the line 'Call me Ishmael'?"
+    },
+    {
+      "correctAnswer": 1,
+      "level": "hard",
+      "options": [
+        "The Pentagon",
+        "The Kremlin",
+        "The White House",
+        "Buckingham Palace"
+      ],
+      "question": "What is the official residence of the President of Russia?"
+    },
+    {
+      "correctAnswer": 0,
+      "level": "hard",
+      "options": ["Egypt", "Algeria", "Nigeria", "Sudan"],
+      "question": "Which African country is the largest by land area?"
+    },
+    {
+      "correctAnswer": 3,
+      "level": "hard",
+      "options": ["New Zealand", "Australia", "Fiji", "Tonga"],
+      "question": "Which country's flag features the Southern Cross constellation?"
+    },
+    {
+      "correctAnswer": 2,
+      "level": "hard",
+      "options": [
+        "Hannibal",
+        "Julius Caesar",
+        "Alexander the Great",
+        "Attila the Hun"
+      ],
+      "question": "Who famously crossed the Alps with elephants during the Second Punic War?"
+    },
+    {
+      "correctAnswer": 0,
+      "level": "hard",
+      "options": ["China", "India", "Russia", "United States"],
+      "question": "Which country has the largest population in the world?"
+    },
+    {
+      "correctAnswer": 1,
+      "level": "extreme",
+      "options": ["El Salvador", "Honduras", "Guatemala", "Nicaragua"],
+      "question": "Which Central American country's capital is Tegucigalpa?"
+    },
+    {
+      "correctAnswer": 3,
+      "level": "extreme",
+      "options": ["Munich", "Berlin", "Frankfurt", "Hamburg"],
+      "question": "In which city was the Treaty of Versailles signed, officially ending World War I?"
+    },
+    {
+      "correctAnswer": 0,
+      "level": "extreme",
+      "options": ["Haiti", "Barbados", "Jamaica", "Trinidad and Tobago"],
+      "question": "Which Caribbean nation was the first independent black-led nation in the world?"
+    },
+    {
+      "correctAnswer": 3,
+      "level": "extreme",
+      "options": ["Judaism", "Christianity", "Hinduism", "Islam"],
+      "question": "Which religion was founded by Guru Nanak in the 15th century in the Punjab region of the Indian subcontinent?"
+    },
+    {
+      "correctAnswer": 1,
+      "level": "extreme",
+      "options": ["Cairo", "Luxor", "Alexandria", "Giza"],
+      "question": "In which city is the ancient monument known as the Library of Alexandria located?"
+    },
+    {
+      "correctAnswer": 0,
+      "level": "extreme",
+      "options": ["Brazil", "Argentina", "Colombia", "Peru"],
+      "question": "Which South American country has the largest Japanese population outside of Japan?"
+    },
+    {
+      "correctAnswer": 3,
+      "level": "extreme",
+      "options": ["Arabic", "Hindi", "Bengali", "Urdu"],
+      "question": "Which language is written in the Devanagari script?"
+    },
+    {
+      "correctAnswer": 0,
+      "level": "extreme",
+      "options": ["Madagascar", "Seychelles", "Mauritius", "Maldives"],
+      "question": "Which island nation is known for its unique wildlife, including lemurs?"
+    },
+    {
+      "correctAnswer": 1,
+      "level": "extreme",
+      "options": [
+        "Sahara Desert",
+        "Kalahari Desert",
+        "Gobi Desert",
+        "Atacama Desert"
+      ],
+      "question": "Which desert is the largest hot desert in the world?"
+    },
+    {
+      "correctAnswer": 0,
+      "level": "extreme",
+      "options": [
+        "Alexander the Great",
+        "Julius Caesar",
+        "Attila the Hun",
+        "Genghis Khan"
+      ],
+      "question": "Which ancient conqueror is said to have wept because he had no more worlds to conquer?"
+    },
+    {
+      "correctAnswer": 2,
+      "level": "extreme",
+      "options": ["Portugal", "Spain", "France", "England"],
+      "question": "Which European country controlled the territory of Goa until 1961?"
+    },
+    {
+      "correctAnswer": 3,
+      "level": "extreme",
+      "options": ["Mediterranean Sea", "Black Sea", "Red Sea", "Caspian Sea"],
+      "question": "Which sea is the largest inland body of water in the world?"
+    },
+    {
+      "correctAnswer": 0,
+      "level": "extreme",
+      "options": ["San Marino", "Liechtenstein", "Monaco", "Vatican City"],
+      "question": "Which European microstate claims to be the oldest sovereign state and constitutional republic in the world?"
+    },
+    {
+      "correctAnswer": 1,
+      "level": "extreme",
+      "options": ["Munich", "Hamburg", "Frankfurt", "Berlin"],
+      "question": "Which German city is known for its annual Oktoberfest celebration?"
+    },
+    {
+      "correctAnswer": 0,
+      "level": "extreme",
+      "options": ["Vatican City", "Monaco", "San Marino", "Liechtenstein"],
+      "question": "Which independent state is the smallest in the world by both area and population?"
+    },
+    {
+      "correctAnswer": 3,
+      "level": "extreme",
+      "options": ["Caspian Sea", "Dead Sea", "Aral Sea", "Black Sea"],
+      "question": "Which sea is bordered by six countries: Iran, Russia, Kazakhstan, Turkmenistan, Azerbaijan, and Iran?"
+    },
+    {
+      "correctAnswer": 2,
+      "level": "extreme",
+      "options": ["France", "Germany", "Italy", "Spain"],
+      "question": "In which European country is the city of Nice located?"
+    },
+    {
+      "correctAnswer": 0,
+      "level": "extreme",
+      "options": ["Sweden", "Norway", "Finland", "Denmark"],
+      "question": "Which Scandinavian country is the largest by land area?"
+    },
+    {
+      "correctAnswer": 1,
+      "level": "extreme",
+      "options": ["Uruguay", "Paraguay", "Argentina", "Brazil"],
+      "question": "Which South American country is the second-largest producer of beef in the world, after the United States?"
+    },
+    {
+      "correctAnswer": 3,
+      "level": "extreme",
+      "options": ["Pac-Man", "Super Mario Bros.", "Space Invaders", "Tetris"],
+      "question": "Which video game was invented by Alexey Pajitnov in 1984?"
+    },
+    {
+      "correctAnswer": 0,
+      "level": "extreme",
+      "options": ["Uganda", "Kenya", "Tanzania", "Rwanda"],
+      "question": "In which African country is Mount Kilimanjaro located?"
+    },
+    {
+      "correctAnswer": 1,
+      "level": "extreme",
+      "options": ["Portugal", "Netherlands", "Spain", "France"],
+      "question": "Which European country colonized Indonesia?"
+    },
+    {
+      "correctAnswer": 0,
+      "level": "extreme",
+      "options": ["Morocco", "Egypt", "Sudan", "Tunisia"],
+      "question": "Which African country is known as the 'Land of the Pharaohs'?"
+    },
+    {
+      "correctAnswer": 3,
+      "level": "extreme",
+      "options": ["Pythagoras", "Plato", "Aristotle", "Socrates"],
+      "question": "Who is known as the 'Father of Western Philosophy'?"
+    },
+    {
+      "correctAnswer": 0,
+      "level": "extreme",
+      "options": [
+        "Napoleon Bonaparte",
+        "Alexander the Great",
+        "Genghis Khan",
+        "Julius Caesar"
+      ],
+      "question": "Which historical figure is associated with the phrase 'Et tu, Brute?'"
+    },
+    {
+      "correctAnswer": 1,
+      "level": "extreme",
+      "options": ["San Francisco", "Los Angeles", "Chicago", "New York City"],
+      "question": "In which U.S. city is the Golden Gate Bridge located?"
+    },
+    {
+      "correctAnswer": 0,
+      "level": "extreme",
+      "options": [
+        "Hans Christian Andersen",
+        "The Brothers Grimm",
+        "Charles Perrault",
+        "Aesop"
+      ],
+      "question": "Who wrote the fairy tale 'The Little Mermaid'?"
+    },
+    {
+      "correctAnswer": 3,
+      "level": "extreme",
+      "options": [
+        "Joseph Stalin",
+        "Vladimir Lenin",
+        "Leon Trotsky",
+        "Mikhail Gorbachev"
+      ],
+      "question": "Who was the first Premier of the Soviet Union?"
+    },
+    {
+      "correctAnswer": 2,
+      "level": "extreme",
+      "options": ["Portugal", "Spain", "France", "Italy"],
+      "question": "Which European country is known for the region of Catalonia and the city of Barcelona?"
+    },
+    {
+      "correctAnswer": 1,
+      "level": "extreme",
+      "options": ["Chad", "Niger", "Nigeria", "Mali"],
+      "question": "Which African country's flag consists of three vertical stripes of green, white, and green?"
+    },
+    {
+      "correctAnswer": 0,
+      "level": "extreme",
+      "options": ["Chad", "Niger", "Mali", "Burkina Faso"],
+      "question": "Which African country's flag consists of three vertical stripes of blue, yellow, and red?"
+    },
+    {
+      "correctAnswer": 3,
+      "level": "extreme",
+      "options": ["Chad", "Niger", "Mali", "Burkina Faso"],
+      "question": "Which African country's flag consists of three vertical stripes of green, yellow, and red?"
+    },
+    {
+      "correctAnswer": 2,
+      "level": "extreme",
+      "options": ["Gujarat", "Maharashtra", "West Bengal", "Bihar"],
+      "question": "In which Indian state is the city of Kolkata located?"
+    },
+    {
+      "correctAnswer": 0,
+      "level": "extreme",
+      "options": ["Oman", "Kuwait", "Saudi Arabia", "United Arab Emirates"],
+      "question": "Which Arab country is known as the 'Land of Frankincense'?"
+    },
+    {
+      "correctAnswer": 1,
+      "level": "extreme",
+      "options": ["Vesuvius", "Mount Tambora", "Krakatoa", "Mount St. Helens"],
+      "question": "Which volcano's eruption in 1815 is considered the most powerful in recorded history?"
+    },
+    {
+      "correctAnswer": 0,
+      "level": "extreme",
+      "options": ["North Korea", "South Korea", "China", "Japan"],
+      "question": "Which country is known as the 'Hermit Kingdom'?"
+    },
+    {
+      "correctAnswer": 3,
+      "level": "extreme",
+      "options": ["East Timor", "Brunei", "Singapore", "Malaysia"],
+      "question": "Which Southeast Asian country is divided into two regions, Peninsular Malaysia and East Malaysia?"
+    },
+    {
+      "correctAnswer": 2,
+      "level": "extreme",
+      "options": ["Bahrain", "Qatar", "Kuwait", "Oman"],
+      "question": "Which Arab country is connected to Saudi Arabia by the King Fahd Causeway?"
+    },
+    {
+      "correctAnswer": 0,
+      "level": "extreme",
+      "options": ["Bhutan", "Nepal", "Bangladesh", "Sri Lanka"],
+      "question": "Which South Asian country is known as the 'Land of the Thunder Dragon'?"
+    },
+    {
+      "correctAnswer": 1,
+      "level": "extreme",
+      "options": ["Sudan", "South Sudan", "Ethiopia", "Somalia"],
+      "question": "Which African country is the largest by land area?"
+    },
+    {
+      "correctAnswer": 2,
+      "level": "extreme",
+      "options": ["Singapore", "Malaysia", "Thailand", "Indonesia"],
+      "question": "Which Southeast Asian country is known as the 'Land of Smiles'?"
+    },
+    {
+      "correctAnswer": 3,
+      "level": "extreme",
+      "options": ["Australia", "Madagascar", "Greenland", "Borneo"],
+      "question": "Which island is the third-largest in the world by land area?"
+    },
+    {
+      "correctAnswer": 0,
+      "level": "extreme",
+      "options": ["Sudan", "South Sudan", "Ethiopia", "Somalia"],
+      "question": "Which African country is the youngest country in the world, having gained independence in 2011?"
+    },
+    {
+      "correctAnswer": 1,
+      "level": "extreme",
+      "options": [
+        "Ferdinand Magellan",
+        "Christopher Columbus",
+        "Vasco da Gama",
+        "James Cook"
+      ],
+      "question": "Who was the first European explorer to reach India by sea?"
+    },
+    {
+      "correctAnswer": 0,
+      "level": "extreme",
+      "options": ["Shakespeare", "Molière", "Homer", "Dante"],
+      "question": "Who wrote the play 'Hamlet'?"
+    },
+    {
+      "correctAnswer": 3,
+      "level": "extreme",
+      "options": ["Egypt", "Syria", "Iraq", "Lebanon"],
+      "question": "In which Middle Eastern country is the ancient city of Petra located?"
+    },
+    {
+      "correctAnswer": 0,
+      "level": "extreme",
+      "options": ["Thailand", "Laos", "Cambodia", "Vietnam"],
+      "question": "In which Southeast Asian country is the ancient temple complex of Angkor Wat located?"
+    },
+    {
+      "correctAnswer": 1,
+      "level": "extreme",
+      "options": ["Belize", "Costa Rica", "Panama", "Guatemala"],
+      "question": "Which Central American country has the highest per capita GDP?"
+    },
+    {
+      "correctAnswer": 0,
+      "level": "extreme",
+      "options": ["Egypt", "Saudi Arabia", "Iran", "Iraq"],
+      "question": "Which Middle Eastern country is home to the Suez Canal?"
+    },
+    {
+      "correctAnswer": 3,
+      "level": "extreme",
+      "options": ["Greece", "Turkey", "Italy", "Spain"],
+      "question": "In which European country is the island of Rhodes located?"
+    },
+    {
+      "correctAnswer": 0,
+      "level": "extreme",
+      "options": ["Vesuvius", "Mount Tambora", "Krakatoa", "Mount St. Helens"],
+      "question": "Which volcano's eruption in 1815 is considered the most powerful in recorded history?"
+    },
+    {
+      "correctAnswer": 2,
+      "level": "extreme",
+      "options": ["Uruguay", "Paraguay", "Argentina", "Brazil"],
+      "question": "Which South American country is the second-largest by land area?"
+    },
+    {
+      "correctAnswer": 1,
+      "level": "extreme",
+      "options": ["Lima", "Bogotá", "Santiago", "Quito"],
+      "question": "Which South American capital city is located at the highest elevation above sea level?"
+    },
+    {
+      "correctAnswer": 0,
+      "level": "extreme",
+      "options": [
+        "Lake Superior",
+        "Lake Victoria",
+        "Great Bear Lake",
+        "Caspian Sea"
+      ],
+      "question": "Which lake is the largest freshwater lake by surface area in the world?"
+    },
+    {
+      "correctAnswer": 2,
+      "level": "extreme",
+      "options": [
+        "Mount Kilimanjaro",
+        "Mount Kenya",
+        "Mount Elgon",
+        "Mount Meru"
+      ],
+      "question": "Which mountain is the highest in Africa?"
+    },
+    {
+      "correctAnswer": 1,
+      "level": "extreme",
+      "options": [
+        "Mount Vesuvius",
+        "Mount Etna",
+        "Mount Stromboli",
+        "Mount Fuji"
+      ],
+      "question": "Which volcano is located on the island of Sicily in Italy?"
+    },
+    {
+      "correctAnswer": 0,
+      "level": "extreme",
+      "options": [
+        "Himalayan Cat",
+        "Himalayan Monal",
+        "Red Panda",
+        "Snow Leopard"
+      ],
+      "question": "Which animal is the national symbol of Nepal?"
+    },
+    {
+      "correctAnswer": 3,
+      "level": "extreme",
+      "options": [
+        "Gobi Desert",
+        "Karakum Desert",
+        "Thar Desert",
+        "Atacama Desert"
+      ],
+      "question": "Which desert is located in Central Asia?"
+    },
+    {
+      "correctAnswer": 0,
+      "level": "extreme",
+      "options": [
+        "Hans Christian Andersen",
+        "The Brothers Grimm",
+        "Charles Perrault",
+        "Aesop"
+      ],
+      "question": "Who wrote the fairy tale 'The Little Mermaid'?"
+    },
+    {
+      "correctAnswer": 1,
+      "level": "extreme",
+      "options": ["French", "German", "Italian", "Spanish"],
+      "question": "In which language was 'The Divine Comedy' originally written?"
+    },
+    {
+      "correctAnswer": 2,
+      "level": "extreme",
+      "options": ["Ghana", "Ivory Coast", "Nigeria", "Cameroon"],
+      "question": "Which African country is the largest producer of cocoa beans?"
+    },
+    {
+      "correctAnswer": 3,
+      "level": "extremeHard",
+      "options": [
+        "Boudhanath Stupa",
+        "Swayambhunath Stupa",
+        "Pashupatinath Temple",
+        "Lumbini"
+      ],
+      "question": "Which UNESCO World Heritage Site in Nepal is known as the birthplace of Lord Buddha?"
+    },
+    {
+      "correctAnswer": 0,
+      "level": "extremeHard",
+      "options": ["Mount Everest", "Kangchenjunga", "Lhotse", "Makalu"],
+      "question": "Which mountain is the highest point on Earth?"
+    },
+    {
+      "correctAnswer": 1,
+      "level": "extremeHard",
+      "options": ["Kathmandu", "Pokhara", "Lalitpur", "Bhaktapur"],
+      "question": "Which city is known as the 'City of Lakes' in Nepal?"
+    },
+    {
+      "correctAnswer": 3,
+      "level": "extremeHard",
+      "options": ["Gorkha", "Kathmandu", "Patan", "Bhaktapur"],
+      "question": "Which ancient Nepali kingdom was the birthplace of Prithvi Narayan Shah, the unifier of Nepal?"
+    },
+    {
+      "correctAnswer": 2,
+      "level": "extremeHard",
+      "options": ["Makalu", "Annapurna", "Manaslu", "Dhaulagiri"],
+      "question": "Which mountain is known as the 'Mountain of the Spirit'?"
+    },
+    {
+      "correctAnswer": 0,
+      "level": "extremeHard",
+      "options": ["Dashain", "Tihar", "Holi", "Buddha Jayanti"],
+      "question": "Which Hindu festival is also known as 'Bijaya Dashami'?"
+    },
+    {
+      "correctAnswer": 1,
+      "level": "extremeHard",
+      "options": ["Vishnu", "Shiva", "Brahma", "Ganesha"],
+      "question": "Which Hindu god is known as the 'Destroyer'?"
+    },
+    {
+      "correctAnswer": 0,
+      "level": "extremeHard",
+      "options": [
+        "Chitwan National Park",
+        "Sagarmatha National Park",
+        "Langtang National Park",
+        "Rara National Park"
+      ],
+      "question": "Which national park in Nepal is famous for its population of Bengal tigers?"
+    },
+    {
+      "correctAnswer": 3,
+      "level": "extremeHard",
+      "options": ["Rara Lake", "Fewa Lake", "Gosaikunda Lake", "Gokyo Lake"],
+      "question": "Which lake is the largest in Nepal?"
+    },
+    {
+      "correctAnswer": 2,
+      "level": "extremeHard",
+      "options": ["Mahabharata", "Ramayana", "Bhagavad Gita", "Upanishads"],
+      "question": "Which ancient Indian epic contains the dialogue between Prince Arjuna and the god Krishna?"
+    },
+    {
+      "correctAnswer": 0,
+      "level": "extremeHard",
+      "options": [
+        "Pashupatinath Temple",
+        "Boudhanath Stupa",
+        "Swayambhunath Stupa",
+        "Lumbini"
+      ],
+      "question": "Which Hindu temple in Nepal is dedicated to the god Shiva?"
+    },
+    {
+      "correctAnswer": 3,
+      "level": "extremeHard",
+      "options": [
+        "Dharahara Tower",
+        "Swayambhunath Stupa",
+        "Pashupatinath Temple",
+        "Boudhanath Stupa"
+      ],
+      "question": "Which iconic monument in Kathmandu collapsed during the 2015 earthquake?"
+    },
+    {
+      "correctAnswer": 1,
+      "level": "extremeHard",
+      "options": ["Manakamana", "Gosainkunda", "Muktinath", "Tal Barahi"],
+      "question": "Which Hindu pilgrimage site is located in the Gorkha district of Nepal?"
+    },
+    {
+      "correctAnswer": 0,
+      "level": "extremeHard",
+      "options": [
+        "Sher Bahadur Deuba",
+        "Prachanda",
+        "Madhav Kumar Nepal",
+        "Baburam Bhattarai"
+      ],
+      "question": "Which politician served as the Prime Minister of Nepal during the devastating 2015 earthquake?"
+    },
+    {
+      "correctAnswer": 2,
+      "level": "extremeHard",
+      "options": ["Tansen", "Bhaktapur", "Lalitpur", "Kathmandu"],
+      "question": "Which city in Nepal is known for its pottery and woodcarving?"
+    },
+    {
+      "correctAnswer": 1,
+      "level": "extremeHard",
+      "options": ["Kukur Tihar", "Gai Tihar", "Goru Tihar", "Dashain"],
+      "question": "Which festival in Nepal honors cows and oxen?"
+    },
+    {
+      "correctAnswer": 3,
+      "level": "extremeHard",
+      "options": ["Dailekh", "Baitadi", "Dhankuta", "Baglung"],
+      "question": "In which district is the sacred temple of Muktinath located?"
+    },
+    {
+      "correctAnswer": 0,
+      "level": "extremeHard",
+      "options": ["Kumari", "Saraswati", "Laxmi", "Durga"],
+      "question": "Which title is given to the living goddess worshipped in Nepal?"
+    },
+    {
+      "correctAnswer": 1,
+      "level": "extremeHard",
+      "options": ["Lakshmi", "Kali", "Saraswati", "Durga"],
+      "question": "Which Hindu goddess is associated with knowledge, music, and the arts?"
+    },
+    {
+      "correctAnswer": 0,
+      "level": "extremeHard",
+      "options": [
+        "Prithvi Narayan Shah",
+        "Mahendra Bir Bikram Shah",
+        "Gyanendra Bir Bikram Shah",
+        "Birendra Bir Bikram Shah"
+      ],
+      "question": "Who was the first King of unified Nepal?"
+    },
+    {
+      "correctAnswer": 2,
+      "level": "extremeHard",
+      "options": ["Kagbeni", "Jomsom", "Mustang", "Lo Manthang"],
+      "question": "Which ancient walled city in Nepal is the capital of the Mustang district?"
+    },
+    {
+      "correctAnswer": 3,
+      "level": "extremeHard",
+      "options": [
+        "Tilicho Lake",
+        "Phoksundo Lake",
+        "Rara Lake",
+        "Gosaikunda Lake"
+      ],
+      "question": "Which lake is situated at the highest altitude in Nepal?"
+    },
+    {
+      "correctAnswer": 0,
+      "level": "extremeHard",
+      "options": ["Lumbini", "Bodh Gaya", "Sarnath", "Kushinagar"],
+      "question": "Where did Gautama Buddha attain enlightenment?"
+    },
+    {
+      "correctAnswer": 1,
+      "level": "extremeHard",
+      "options": [
+        "Gauri Shankar",
+        "Ganesh Himal",
+        "Langtang Lirung",
+        "Annapurna"
+      ],
+      "question": "Which mountain is believed to be the abode of the Hindu god Shiva?"
+    },
+    {
+      "correctAnswer": 0,
+      "level": "extremeHard",
+      "options": [
+        "Sher Bahadur Deuba",
+        "KP Sharma Oli",
+        "Prachanda",
+        "Baburam Bhattarai"
+      ],
+      "question": "Who was the Prime Minister of Nepal during the 2008 financial crisis?"
+    },
+    {
+      "correctAnswer": 2,
+      "level": "extremeHard",
+      "options": ["Bhaktapur", "Patan", "Kirtipur", "Bandipur"],
+      "question": "Which ancient city in Nepal is known as the 'City of Fine Arts'?"
+    },
+    {
+      "correctAnswer": 3,
+      "level": "extremeHard",
+      "options": ["Lumbini", "Kapilavastu", "Sarnath", "Bodh Gaya"],
+      "question": "Where was Gautama Buddha born?"
+    },
+    {
+      "correctAnswer": 0,
+      "level": "extremeHard",
+      "options": ["Kathmandu", "Bhaktapur", "Patan", "Lumbini"],
+      "question": "Which city in Nepal was once known as Kantipur?"
+    },
+    {
+      "correctAnswer": 2,
+      "level": "extremeHard",
+      "options": ["Pokhara", "Lumbini", "Janakpur", "Tansen"],
+      "question": "Which city in Nepal is believed to be the birthplace of Sita, the wife of Lord Rama?"
+    },
+    {
+      "correctAnswer": 1,
+      "level": "extremeHard",
+      "options": ["Manaslu", "Annapurna", "Dhaulagiri", "Makalu"],
+      "question": "Which mountain is known as the 'Goddess of the Harvest'?"
+    },
+    {
+      "correctAnswer": 0,
+      "level": "extremeHard",
+      "options": ["Mustang", "Upper Dolpo", "Kanchenjunga", "Makalu Barun"],
+      "question": "Which region of Nepal is often referred to as the 'Forbidden Kingdom'?"
+    },
+    {
+      "correctAnswer": 3,
+      "level": "extremeHard",
+      "options": ["Biratnagar", "Birgunj", "Dharan", "Butwal"],
+      "question": "Which city in Nepal is known as the 'Industrial Capital'?"
+    },
+    {
+      "correctAnswer": 0,
+      "level": "extremeHard",
+      "options": ["Thamel", "Durbar Marg", "Jhochhen", "Freak Street"],
+      "question": "Which area in Kathmandu is popular among tourists for its vibrant nightlife and shopping?"
+    },
+    {
+      "correctAnswer": 1,
+      "level": "extremeHard",
+      "options": ["Pokhara", "Lakeside", "Kathmandu", "Bhaktapur"],
+      "question": "Which city in Nepal is known for its serene lakes and views of the Himalayas?"
+    },
+    {
+      "correctAnswer": 0,
+      "level": "extremeHard",
+      "options": ["Gosaikunda Lake", "Phewa Lake", "Rara Lake", "Begnas Lake"],
+      "question": "Which lake in Nepal is believed to have been created by Lord Shiva?"
+    },
+    {
+      "correctAnswer": 2,
+      "level": "extremeHard",
+      "options": [
+        "Bhimsen Tower",
+        "Dharahara Tower",
+        "Narayanhiti Palace",
+        "Sundarijal Palace"
+      ],
+      "question": "Which iconic landmark in Kathmandu is also known as the 'Bhimsen Tower'?"
+    },
+    {
+      "correctAnswer": 1,
+      "level": "extremeHard",
+      "options": ["Dhulikhel", "Bandipur", "Gorkha", "Ilam"],
+      "question": "Which hill station in Nepal is known for its panoramic views of the Himalayas and traditional Newari architecture?"
+    },
+    {
+      "correctAnswer": 0,
+      "level": "extremeHard",
+      "options": [
+        "Makalu Barun National Park",
+        "Langtang National Park",
+        "Sagarmatha National Park",
+        "Annapurna Conservation Area"
+      ],
+      "question": "Which national park in Nepal is home to the elusive snow leopard?"
+    },
+    {
+      "correctAnswer": 2,
+      "level": "extremeHard",
+      "options": [
+        "Chitwan National Park",
+        "Sagarmatha National Park",
+        "Langtang National Park",
+        "Khaptad National Park"
+      ],
+      "question": "Which national park in Nepal is known for its population of one-horned rhinoceros?"
+    },
+    {
+      "correctAnswer": 0,
+      "level": "extremeHard",
+      "options": ["Rolpa", "Rukum", "Jajarkot", "Dolpa"],
+      "question": "Which district in Nepal is known for its historical association with the Maoist insurgency?"
+    },
+    {
+      "correctAnswer": 3,
+      "level": "extremeHard",
+      "options": [
+        "Baburam Bhattarai",
+        "Pushpa Kamal Dahal",
+        "Madhav Kumar Nepal",
+        "Sher Bahadur Deuba"
+      ],
+      "question": "Who served as the Prime Minister of Nepal immediately after the signing of the Comprehensive Peace Accord in 2006?"
+    },
+    {
+      "correctAnswer": 1,
+      "level": "extremeHard",
+      "options": [
+        "Annapurna Circuit",
+        "Everest Base Camp",
+        "Langtang Valley",
+        "Manaslu Circuit"
+      ],
+      "question": "Which trekking route in Nepal is known as the 'Cultural Trek'?"
+    },
+    {
+      "correctAnswer": 0,
+      "level": "extremeHard",
+      "options": ["Kagbeni", "Jomsom", "Ghorepani", "Lukla"],
+      "question": "Which village in Nepal marks the northern boundary of the Mustang region and the starting point of the Upper Mustang trek?"
+    },
+    {
+      "correctAnswer": 3,
+      "level": "extremeHard",
+      "options": [
+        "Phoksundo Lake",
+        "Rara Lake",
+        "Gosaikunda Lake",
+        "Begnas Lake"
+      ],
+      "question": "Which lake in Nepal is located within the Shey Phoksundo National Park?"
+    },
+    {
+      "correctAnswer": 0,
+      "level": "extremeHard",
+      "options": ["Rolpa", "Rukum", "Bajhang", "Bajura"],
+      "question": "Which district in Nepal is known as the 'Cradle of the Maoist Revolution'?"
+    },
+    {
+      "correctAnswer": 2,
+      "level": "extremeHard",
+      "options": [
+        "Makalu Barun National Park",
+        "Langtang National Park",
+        "Rara National Park",
+        "Khaptad National Park"
+      ],
+      "question": "Which national park in Nepal is home to the Himalayan tahr?"
+    },
+    {
+      "correctAnswer": 1,
+      "level": "extremeHard",
+      "options": [
+        "Shankhadhar Sakhwa",
+        "Prithvi Narayan Shah",
+        "Bhim Sen Thapa",
+        "Janga Bahadur Rana"
+      ],
+      "question": "Who founded the city of Kathmandu?"
+    },
+    {
+      "correctAnswer": 0,
+      "level": "extremeHard",
+      "options": ["Manakamana", "Gosainkunda", "Tal Barahi", "Pashupatinath"],
+      "question": "Which Hindu pilgrimage site in Nepal is accessible by a cable car?"
+    },
+    {
+      "correctAnswer": 3,
+      "level": "extremeHard",
+      "options": ["Tansen", "Bandipur", "Gorkha", "Ilam"],
+      "question": "Which hill station in Nepal is known as the 'Queen of Hills'?"
+    },
+    {
+      "correctAnswer": 0,
+      "level": "extremeHard",
+      "options": ["Dashain", "Tihar", "Holi", "Buddha Jayanti"],
+      "question": "Which Hindu festival in Nepal is also known as 'Bijaya Dashami'?"
+    },
+    {
+      "correctAnswer": 1,
+      "level": "extremeHard",
+      "options": ["Lumbini", "Bodh Gaya", "Sarnath", "Kushinagar"],
+      "question": "Where did Gautama Buddha deliver his first sermon?"
+    }
+  ]
+}

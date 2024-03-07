@@ -21,7 +21,14 @@ import {
   SelectValue,
 } from "@/components/ui/select";
 import { shuffle } from "lodash";
-import { Button } from "@/components/ui/button";
+import { Button,buttonVariants } from "@/components/ui/button";
+import Link from "next/link"
+
+import {
+  LucideArrowLeft,
+  LucideArrowLeftFromLine,
+  MoveLeft,
+} from "lucide-react"
 
 export default function Home() {
   const nanoid = customAlphabet("0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ", 4);
@@ -94,7 +101,12 @@ export default function Home() {
   };
 
   return (
-    <main className="w-[300px] subjective">
+    <main className="w-[300px] subjective"><Link
+          href={"/quizzy"}
+          className={buttonVariants({ variant: "outline",className:"fixed z-50 top-10 right-10" })}
+        >
+          <MoveLeft />
+        </Link>
       <div className="flex flex-col  items-center gap-y-5">
         <Image
           src={avatar}

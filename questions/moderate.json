@@ -1,0 +1,394 @@
+[
+  {
+    "correctAnswer": 1,
+    "level": "moderate",
+    "options": [
+      "Gautama Buddha",
+      "Prithvi Narayan Shah",
+      "King Birendra",
+      "Siddhartha Gautama"
+    ],
+    "question": "Who is considered the founder of modern Nepal?"
+  },
+  {
+    "correctAnswer": 2,
+    "level": "moderate",
+    "options": ["Mount Everest", "Kangchenjunga", "Makalu", "Annapurna"],
+    "question": "Which is the third highest mountain in the world and lies partially in Nepal?"
+  },
+  {
+    "correctAnswer": 1,
+    "level": "moderate",
+    "options": ["Ghurkhas", "Sherpas", "Tamangs", "Newars"],
+    "question": "Which ethnic group is known for their skilled mountaineering?"
+  },
+  {
+    "correctAnswer": 0,
+    "level": "moderate",
+    "options": ["Buddha Jayanti", "Tihar", "Holi", "Maha Shivaratri"],
+    "question": "Which festival celebrates the birth of Siddhartha Gautama?"
+  },
+  {
+    "correctAnswer": 2,
+    "level": "moderate",
+    "options": ["Kumari", "Rani", "Maharani", "Devi"],
+    "question": "What is the title given to the living goddess of Kathmandu?"
+  },
+  {
+    "correctAnswer": 1,
+    "level": "moderate",
+    "options": ["Karnali", "Koshi", "Bagmati", "Narayani"],
+    "question": "Which is the longest river in Nepal?"
+  },
+  {
+    "correctAnswer": 0,
+    "level": "moderate",
+    "options": ["Lumbini", "Janakpur", "Kapilavastu", "Tansen"],
+    "question": "Which UNESCO World Heritage Site in Nepal is associated with the birth of Buddha?"
+  },
+  {
+    "correctAnswer": 3,
+    "level": "moderate",
+    "options": ["Manaslu", "Cho Oyu", "Dhaulagiri", "Kangchenjunga"],
+    "question": "Which is the eighth highest mountain in the world and lies partially in Nepal?"
+  },
+  {
+    "correctAnswer": 1,
+    "level": "moderate",
+    "options": ["Pashupatinath", "Swayambhunath", "Boudhanath", "Lumbini"],
+    "question": "Which famous Hindu temple complex is located in Kathmandu?"
+  },
+  {
+    "correctAnswer": 2,
+    "level": "moderate",
+    "options": ["Arun", "Langtang", "Makalu", "Gosainkunda"],
+    "question": "Which is not a national park in Nepal?"
+  },
+  {
+    "correctAnswer": 0,
+    "level": "moderate",
+    "options": [
+      "Tenzing Norgay",
+      "Edmund Hillary",
+      "Reinhold Messner",
+      "Junko Tabei"
+    ],
+    "question": "Who was the first person to reach the summit of Mount Everest?"
+  },
+  {
+    "correctAnswer": 1,
+    "level": "moderate",
+    "options": ["Yeti", "Kangaroo", "Bigfoot", "Nessie"],
+    "question": "What mythical creature is said to inhabit the Himalayas, especially in Nepal?"
+  },
+  {
+    "correctAnswer": 3,
+    "level": "moderate",
+    "options": [
+      "Everest Marathon",
+      "Annapurna Circuit Trek",
+      "Langtang Valley Trek",
+      "Manaslu Circuit Trek"
+    ],
+    "question": "Which trekking route in Nepal offers a close view of the eighth highest mountain in the world?"
+  },
+  {
+    "correctAnswer": 2,
+    "level": "moderate",
+    "options": ["Maithili", "Nepali", "Newari", "Bhojpuri"],
+    "question": "Which language is spoken by the majority of people in Nepal?"
+  },
+  {
+    "correctAnswer": 0,
+    "level": "moderate",
+    "options": ["Momo", "Dal Bhat", "Sel Roti", "Gundruk"],
+    "question": "What is the name of the traditional Nepali dumplings?"
+  },
+  {
+    "correctAnswer": 3,
+    "level": "moderate",
+    "options": [
+      "Anuradha Koirala",
+      "Bindhya Basini",
+      "Khadga Prasad Sharma Oli",
+      "Bidya Devi Bhandari"
+    ],
+    "question": "Who is the first female President of Nepal?"
+  },
+  {
+    "correctAnswer": 1,
+    "level": "moderate",
+    "options": ["Manang", "Rara", "Gokyo", "Phewa"],
+    "question": "Which is the largest lake in Nepal?"
+  },
+  {
+    "correctAnswer": 0,
+    "level": "moderate",
+    "options": ["Tansen", "Bhaktapur", "Lumbini", "Janakpur"],
+    "question": "Which city in Nepal is known as 'The Darjeeling of Nepal'?"
+  },
+  {
+    "correctAnswer": 1,
+    "level": "moderate",
+    "options": ["Biratnagar", "Bhairahawa", "Birgunj", "Butwal"],
+    "question": "Which city in Nepal is known as 'The Gateway to the Himalayas'?"
+  },
+  {
+    "correctAnswer": 2,
+    "level": "moderate",
+    "options": [
+      "Everest Base Camp",
+      "Annapurna Base Camp",
+      "Kangchenjunga Base Camp",
+      "Makalu Base Camp"
+    ],
+    "question": "Which trekking destination is known as 'The Roof of the World'?"
+  },
+  {
+    "correctAnswer": 0,
+    "level": "moderate",
+    "options": [
+      "Lukla Airport",
+      "Tenzing-Hillary Airport",
+      "Pokhara Airport",
+      "Biratnagar Airport"
+    ],
+    "question": "Which airport in Nepal is considered one of the most dangerous airports in the world?"
+  },
+  {
+    "correctAnswer": 3,
+    "level": "moderate",
+    "options": ["Shiva", "Vishnu", "Brahma", "Ganesha"],
+    "question": "Which Hindu god is worshipped as the deity of destruction?"
+  },
+  {
+    "correctAnswer": 0,
+    "level": "moderate",
+    "options": ["Mustang", "Solukhumbu", "Dolpo", "Humla"],
+    "question": "Which region in Nepal is known as 'The Forbidden Kingdom'?"
+  },
+  {
+    "correctAnswer": 1,
+    "level": "moderate",
+    "options": ["Rupakot", "Sarangkot", "Ghandruk", "Nagarkot"],
+    "question": "Which hill station near Pokhara offers panoramic views of the Annapurna Range?"
+  },
+  {
+    "correctAnswer": 0,
+    "level": "moderate",
+    "options": [
+      "Tenzing Norgay National Adventure Award",
+      "Tenzing Norgay Himalayan Adventure Award",
+      "Tenzing Norgay Everest Adventure Award",
+      "Tenzing Norgay Mountaineering Adventure Award"
+    ],
+    "question": "What is the highest adventure award given by the Government of Nepal?"
+  },
+  {
+    "correctAnswer": 2,
+    "level": "moderate",
+    "options": ["Chitwan", "Sagarmatha", "Langtang", "Makalu"],
+    "question": "Which national park is home to the endangered one-horned rhinoceros?"
+  },
+  {
+    "correctAnswer": 3,
+    "level": "moderate",
+    "options": ["Khukuri", "Kukri", "Khopi", "Kurkuri"],
+    "question": "What is the traditional Nepali curved knife called?"
+  },
+  {
+    "correctAnswer": 0,
+    "level": "moderate",
+    "options": [
+      "Buddha Air",
+      "Yeti Airlines",
+      "Nepal Airlines",
+      "Simrik Airlines"
+    ],
+    "question": "Which airline is known as the largest domestic airline in Nepal?"
+  },
+  {
+    "correctAnswer": 1,
+    "level": "moderate",
+    "options": [
+      "Bhanu Bhakta Acharya",
+      "Laxmi Prasad Devkota",
+      "B.P. Koirala",
+      "Mahakavi Devkota"
+    ],
+    "question": "Who is known as the 'Adikavi' or 'First Poet' of Nepal?"
+  },
+  {
+    "correctAnswer": 0,
+    "level": "moderate",
+    "options": ["Sita", "Draupadi", "Parvati", "Radha"],
+    "question": "According to Hindu mythology, who is the wife of Lord Ram?"
+  },
+  {
+    "correctAnswer": 1,
+    "level": "moderate",
+    "options": ["Chautari", "Chowk", "Bazaar", "Chautal"],
+    "question": "What is a traditional Nepali resting place usually found in villages?"
+  },
+  {
+    "correctAnswer": 0,
+    "level": "moderate",
+    "options": ["Vijaya Dashami", "Buddha Jayanti", "Indra Jatra", "Gai Jatra"],
+    "question": "Which festival is also known as Dashain in Nepal?"
+  },
+  {
+    "correctAnswer": 3,
+    "level": "moderate",
+    "options": ["Annapurna", "Kangchenjunga", "Lhotse", "Manaslu"],
+    "question": "Which of the following mountains is not a part of the Annapurna Range?"
+  },
+  {
+    "correctAnswer": 2,
+    "level": "moderate",
+    "options": [
+      "Tenzing Norgay",
+      "Pasang Lhamu Sherpa",
+      "Babu Chiri Sherpa",
+      "Apa Sherpa"
+    ],
+    "question": "Who holds the record for the most Everest summits by any person?"
+  },
+  {
+    "correctAnswer": 0,
+    "level": "moderate",
+    "options": ["Bhaktapur", "Patan", "Kirtipur", "Gorkha"],
+    "question": "Which city in Nepal is known for its fine pottery and wood carving?"
+  },
+  {
+    "correctAnswer": 1,
+    "level": "moderate",
+    "options": [
+      "Pashupatinath Temple",
+      "Swayambhunath Stupa",
+      "Boudhanath Stupa",
+      "Changunarayan Temple"
+    ],
+    "question": "Which UNESCO World Heritage Site is also known as the 'Monkey Temple'?"
+  },
+  {
+    "correctAnswer": 2,
+    "level": "moderate",
+    "options": ["Rapti", "Budhi Gandaki", "Bagmati", "Koshi"],
+    "question": "Which river is known as 'The River of Sorrow'?"
+  },
+  {
+    "correctAnswer": 0,
+    "level": "moderate",
+    "options": ["Kangchenjunga", "Makalu", "Dhaulagiri", "Annapurna"],
+    "question": "Which of the following mountains lies entirely in Nepal?"
+  },
+  {
+    "correctAnswer": 3,
+    "level": "moderate",
+    "options": ["Bhaktapur", "Patan", "Birgunj", "Lalitpur"],
+    "question": "Which city in Nepal is known as 'The City of Fine Arts'?"
+  },
+  {
+    "correctAnswer": 1,
+    "level": "moderate",
+    "options": ["Rupandehi", "Morang", "Sunsari", "Jhapa"],
+    "question": "In which district is Lumbini, the birthplace of Buddha, located?"
+  },
+  {
+    "correctAnswer": 0,
+    "level": "moderate",
+    "options": [
+      "Shikhar Dhawan",
+      "Sandeep Lamichhane",
+      "Rohit Sharma",
+      "Virat Kohli"
+    ],
+    "question": "Which Nepali cricketer became the first to take a hat-trick in T20 International cricket?"
+  },
+  {
+    "correctAnswer": 1,
+    "level": "moderate",
+    "options": [
+      "Nepal Sambat",
+      "Bikram Sambat",
+      "Shakya Sambat",
+      "Shakambhari Sambat"
+    ],
+    "question": "Which lunar calendar is used in Nepal as the official calendar?"
+  },
+  {
+    "correctAnswer": 0,
+    "level": "moderate",
+    "options": ["Dhaka Topi", "Topi", "Ghale Topi", "Daura Suruwal"],
+    "question": "Which traditional Nepali cap is worn during cultural ceremonies and festivals?"
+  },
+  {
+    "correctAnswer": 3,
+    "level": "moderate",
+    "options": ["Vishnu", "Shiva", "Brahma", "Ganesha"],
+    "question": "Which Hindu god is known as the 'Remover of Obstacles'?"
+  },
+  {
+    "correctAnswer": 0,
+    "level": "moderate",
+    "options": ["Bhaktapur", "Patan", "Kirtipur", "Lalitpur"],
+    "question": "Which city in Nepal is known for its rich cultural heritage and Newari architecture?"
+  },
+  {
+    "correctAnswer": 1,
+    "level": "moderate",
+    "options": ["Gosainkunda", "Muktinath", "Manakamana", "Tal Barahi"],
+    "question": "Which Hindu pilgrimage site is located in the Mustang district of Nepal?"
+  },
+  {
+    "correctAnswer": 0,
+    "level": "moderate",
+    "options": ["Baglung", "Dhankuta", "Baitadi", "Dailekh"],
+    "question": "In which district is Dhorpatan Hunting Reserve located?"
+  },
+  {
+    "correctAnswer": 3,
+    "level": "moderate",
+    "options": ["Rara Lake", "Fewa Lake", "Gosaikunda Lake", "Gokyo Lake"],
+    "question": "Which lake is the largest in Nepal?"
+  },
+  {
+    "correctAnswer": 0,
+    "level": "moderate",
+    "options": ["Sagarmatha", "Annapurna", "Dhaulagiri", "Manaslu"],
+    "question": "What is the Nepali name for Mount Everest?"
+  },
+  {
+    "correctAnswer": 1,
+    "level": "moderate",
+    "options": [
+      "Himalayan Cat",
+      "Himalayan Monal",
+      "Red Panda",
+      "Snow Leopard"
+    ],
+    "question": "Which animal is the national symbol of Nepal?"
+  },
+  {
+    "correctAnswer": 0,
+    "level": "moderate",
+    "options": [
+      "Prachanda",
+      "Madhav Kumar Nepal",
+      "Baburam Bhattarai",
+      "Sher Bahadur Deuba"
+    ],
+    "question": "Which politician served as the Prime Minister of Nepal during the Maoist insurgency?"
+  },
+  {
+    "correctAnswer": 1,
+    "level": "moderate",
+    "options": [
+      "Mount Makalu",
+      "Mount Annapurna",
+      "Mount Manaslu",
+      "Mount Dhaulagiri"
+    ],
+    "question": "Which mountain is known as the 'Mountain of the Spirit'?"
+  }
+]

@@ -19,9 +19,14 @@ import { db } from "@/firebase/config";
 import { shuffle } from "lodash";
 import Image from "next/image";
 import { SparkingBackground } from "@/components/sparking-bg";
-import { Button } from "@/components/ui/button";
+import { Button,buttonVariants } from "@/components/ui/button";
 import { Input } from "@/components/ui/input";
-
+import Link from "next/link"
+import {
+  LucideArrowLeft,
+  LucideArrowLeftFromLine,
+  MoveLeft,
+} from "lucide-react"
 export default function Home() {
   const nanoid = customAlphabet("0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ", 4);
   const { user, setUser } = useContext(UserContext);
@@ -93,6 +98,12 @@ export default function Home() {
 
   return (
     <main className="w-[300px] subjective">
+        <Link
+          href={"/quizzy"}
+          className={buttonVariants({ variant: "outline",className:"fixed z-50 top-10 right-10" })}
+        >
+          <MoveLeft />
+        </Link>
       <div className="flex flex-col  items-center gap-y-5">
         <Image
           className="animate-fade-up"

@@ -1,18 +1,13 @@
 "use client";
 import "@/styles/trophytable.css";
-import KBCIntro from "@/components/kbc/Intro";
-import LifeLine from "@/components/kbc/LifeLine";
 import OptionCard from "@/components/kbc/OptionCard";
 import PriceTable from "@/components/kbc/PriceTable";
 import QuestionCard from "@/components/kbc/QuestionCard";
-import Timer from "@/components/kbc/Timer";
-import { KBCContext } from "@/context/KBCContext";
 import { db } from "@/firebase/config";
-import getKBCQuestions from "@/firebase/getKBCQuestions";
 import { onValue, ref, set } from "firebase/database";
 import { shuffle } from "lodash";
 import Image from "next/image";
-import React, { FC, useContext, useEffect, useState } from "react";
+import React, { FC, useEffect, useState } from "react";
 import GameFinished from "@/components/kbc/GameFinished";
 import { LucideCheck, LucideHeart, LucideHeartCrack } from "lucide-react";
 import { customAlphabet } from "nanoid";
@@ -23,7 +18,7 @@ interface pageProps {
   };
 }
 
-const page: FC<pageProps> = ({ params }) => {
+const KBCGAME: FC<pageProps> = ({ params }) => {
   const [questions, setQuestions] = useState<question[] | null>(null);
 
   const [pauseGame, setPauseGame] = useState<boolean>(false);
@@ -142,9 +137,11 @@ const page: FC<pageProps> = ({ params }) => {
   }
   const nanoid = customAlphabet("0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ", 4);
 
+  const roomId = nanoid();
+
   useEffect(() => {
     if (finishGame) {
-      set(ref(db, "kbc/" + nanoid()), {
+      set(ref(db, "kbc/" + roomId), {
         userName: params.userName,
         points: questionCounter * 100,
       });
@@ -216,13 +213,14 @@ const page: FC<pageProps> = ({ params }) => {
         setTimeout(() => setFinishGame(true), 1000);
       }
     }
-  }, [timer, questions]);
+  }, [timer, heartLifeLine, questions]);
 
   const [sliderWidth, setSliderWidth] = useState(0);
 
   useEffect(() => {
     setSliderWidth((timer / 30) * 100);
   }, [timer]);
+
   function getRandomIndex(max: number, correct: number) {
     let random = Math.floor(Math.random() * max);
     if (random === correct) {
@@ -277,7 +275,10 @@ const page: FC<pageProps> = ({ params }) => {
         <PriceTable questionCounter={questionCounter} name={params.userName} />
       )}
       {finishGame ? (
-        <GameFinished name={params.userName} />
+        <GameFinished
+          name={params.userName}
+          questionCounter={questionCounter}
+        />
       ) : (
         <>
           <div className="fixed top-0 left-0 -z-20">
@@ -374,4 +375,4 @@ const page: FC<pageProps> = ({ params }) => {
   );
 };
 
-export default page;
+export default KBCGAME;

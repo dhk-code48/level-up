@@ -4,19 +4,16 @@ import { io } from "socket.io-client";
 import { useRouter } from "next/navigation";
 import Link from "next/link";
 import { UserContext } from "@/context/ContextProvider";
-import { Button } from "@/components/ui/button";
+import { Button, buttonVariants } from "@/components/ui/button";
 import RoomMembers from "@/components/rapidfire/RoomMembers";
-import Game from "@/components/rapidfire/Game";
+
 import { onValue, ref, set } from "firebase/database";
 import { db } from "@/firebase/config";
 import Image from "next/image";
 import { Input } from "@/components/ui/input";
 import "@/styles/rain.css";
 import TrophyCard from "@/components/kbc/TrophyCard";
-const serverUrl =
-  process.env.NODE_ENV === "production"
-    ? "https://next-paint-io.onrender.com"
-    : "http://129.150.50.164:3001";
+const serverUrl ="http://129.150.50.164:3001";
 
 const socket = io(serverUrl);
 
@@ -250,10 +247,10 @@ const Room = ({ params }: ParamsProps) => {
     setSliderWidth((timer / 30) * 100);
   }, [timer]);
 
-  useEffect(() => {
-    console.log("membersState[0]=> ", finalPoints[membersState[0]].points);
-    console.log("membersState[1] => ", finalPoints[membersState[1]].points);
-  }, [finalPoints]);
+  // useEffect(() => {
+  //   console.log("membersState[0]=> ", finalPoints[membersState[0]].points);
+  //   console.log("membersState[1] => ", finalPoints[membersState[1]].points);
+  // }, [finalPoints]);
 
   /* =================== FILTERING QUESTIONS =================== */
 
@@ -268,7 +265,7 @@ const Room = ({ params }: ParamsProps) => {
           </div>
         ) : (
           <div className="fixed z-50 top-0 text-center left-0 flex items-center  text-white justify-center bg-red-500 w-[100px] h-[35px] rounded-r-full">
-            <h1 className="text-sm">Other's Turn</h1>
+            <h1 className="text-sm">Other&apos;s Turn</h1>
           </div>
         )}
       </div>
@@ -407,6 +404,20 @@ const Room = ({ params }: ParamsProps) => {
                           />
                         );
                       })}
+                  </div>
+                  <div className="space-x-5 fixed w-screen flex items-center justify-center gap-x-5 bottom-10 left-auto right-auto z-50">
+                    <Button
+                      onClick={()=>router.push("/quizzy/quiz")}
+                      className={buttonVariants({ className: "bg-green-500" })}
+                    >
+                      Play Again
+                    </Button>
+                    <Button
+                      onClick={()=>router.push("/leaderboard")}
+                      className={buttonVariants({ className: "bg-blue-500" })}
+                    >
+                      Leaderboard
+                    </Button>
                   </div>
                 </div>
               </div>

@@ -1,0 +1,334 @@
+[
+  {
+    "correctAnswer": 1,
+    "level": "hard",
+    "options": ["Vesuvius", "Mount Tambora", "Krakatoa", "Mount St. Helens"],
+    "question": "Which volcano's eruption in 1815 is considered the most powerful in recorded history?"
+  },
+  {
+    "correctAnswer": 3,
+    "level": "hard",
+    "options": [
+      "Blue Whale",
+      "African Elephant",
+      "Giraffe",
+      "Saltwater Crocodile"
+    ],
+    "question": "Which animal has the strongest bite force in the world?"
+  },
+  {
+    "correctAnswer": 2,
+    "level": "hard",
+    "options": ["Chicago", "Toronto", "Los Angeles", "New York City"],
+    "question": "Which city is known as the 'Windy City'?"
+  },
+  {
+    "correctAnswer": 1,
+    "level": "hard",
+    "options": [
+      "Albert Einstein",
+      "Isaac Newton",
+      "Galileo Galilei",
+      "Stephen Hawking"
+    ],
+    "question": "Who developed the theory of relativity?"
+  },
+  {
+    "correctAnswer": 0,
+    "level": "hard",
+    "options": [
+      "The Great Wall of China",
+      "Machu Picchu",
+      "Taj Mahal",
+      "Colosseum"
+    ],
+    "question": "Which of the following is not one of the Seven Wonders of the Ancient World?"
+  },
+  {
+    "correctAnswer": 2,
+    "level": "hard",
+    "options": ["The Sun", "The Moon", "Venus", "Mars"],
+    "question": "Which planet is known as the 'Evening Star'?"
+  },
+  {
+    "correctAnswer": 3,
+    "level": "hard",
+    "options": ["Haiti", "El Salvador", "Honduras", "Nicaragua"],
+    "question": "Which Central American country's capital is Tegucigalpa?"
+  },
+  {
+    "correctAnswer": 0,
+    "level": "hard",
+    "options": [
+      "Lake Superior",
+      "Lake Victoria",
+      "Great Bear Lake",
+      "Caspian Sea"
+    ],
+    "question": "Which lake is the largest freshwater lake by surface area in the world?"
+  },
+  {
+    "correctAnswer": 1,
+    "level": "hard",
+    "options": ["Leonardo da Vinci", "Michelangelo", "Raphael", "Donatello"],
+    "question": "Who painted the ceiling of the Sistine Chapel?"
+  },
+  {
+    "correctAnswer": 2,
+    "level": "hard",
+    "options": [
+      "René Descartes",
+      "Immanuel Kant",
+      "Baruch Spinoza",
+      "Friedrich Nietzsche"
+    ],
+    "question": "Who is known for the philosophical statement 'Cogito, ergo sum'?"
+  },
+  {
+    "correctAnswer": 0,
+    "level": "hard",
+    "options": ["The Nile", "The Amazon", "The Mississippi", "The Yangtze"],
+    "question": "Which river is the longest in the world?"
+  },
+  {
+    "correctAnswer": 3,
+    "level": "hard",
+    "options": [
+      "October Revolution",
+      "Glorious Revolution",
+      "French Revolution",
+      "American Revolution"
+    ],
+    "question": "Which revolution led to the overthrow of the Russian monarchy and the establishment of the Soviet Union?"
+  },
+  {
+    "correctAnswer": 2,
+    "level": "hard",
+    "options": [
+      "Kingdom of Judah",
+      "Kingdom of Israel",
+      "Holy Roman Empire",
+      "Ottoman Empire"
+    ],
+    "question": "Which ancient kingdom was ruled by King Solomon?"
+  },
+  {
+    "correctAnswer": 0,
+    "level": "hard",
+    "options": ["Socrates", "Plato", "Aristotle", "Pythagoras"],
+    "question": "Who was the teacher of Plato?"
+  },
+  {
+    "correctAnswer": 3,
+    "level": "hard",
+    "options": ["Barbados", "Jamaica", "Trinidad and Tobago", "Grenada"],
+    "question": "Which Caribbean island nation is known as the 'Spice Isle'?"
+  },
+  {
+    "correctAnswer": 1,
+    "level": "hard",
+    "options": ["Uruguay", "Argentina", "Paraguay", "Chile"],
+    "question": "Which South American country is known as the 'Land of Silver'?"
+  },
+  {
+    "correctAnswer": 2,
+    "level": "hard",
+    "options": ["Lisbon", "Barcelona", "Madrid", "Rome"],
+    "question": "Which European capital city is located on the Tagus River?"
+  },
+  {
+    "correctAnswer": 0,
+    "level": "hard",
+    "options": ["Madagascar", "Seychelles", "Maldives", "Mauritius"],
+    "question": "Which island nation is home to the world's largest lemur, the Indri?"
+  },
+  {
+    "correctAnswer": 1,
+    "level": "hard",
+    "options": [
+      "The Shawshank Redemption",
+      "The Godfather",
+      "Schindler's List",
+      "Pulp Fiction"
+    ],
+    "question": "Which movie won the Academy Award for Best Picture in 1994?"
+  },
+  {
+    "correctAnswer": 0,
+    "level": "hard",
+    "options": ["Chad", "Niger", "Mali", "Burkina Faso"],
+    "question": "Which African country's flag consists of three vertical stripes of blue, yellow, and red?"
+  },
+  {
+    "correctAnswer": 2,
+    "level": "hard",
+    "options": [
+      "James Watt",
+      "Thomas Edison",
+      "Nikola Tesla",
+      "Albert Einstein"
+    ],
+    "question": "Who is known as the 'Father of Radio'?"
+  },
+
+  {
+    "correctAnswer": 0,
+    "level": "hard",
+    "options": [
+      "Niagara Falls",
+      "Victoria Falls",
+      "Angel Falls",
+      "Iguazu Falls"
+    ],
+    "question": "Which waterfall is located on the border between Canada and the United States?"
+  },
+  {
+    "correctAnswer": 1,
+    "level": "hard",
+    "options": ["Tchaikovsky", "Beethoven", "Mozart", "Bach"],
+    "question": "Who composed the '1812 Overture'?"
+  },
+  {
+    "correctAnswer": 3,
+    "level": "hard",
+    "options": ["Hawaii", "Puerto Rico", "Guam", "American Samoa"],
+    "question": "Which U.S. state or territory is not located on the North American mainland?"
+  },
+  {
+    "correctAnswer": 2,
+    "level": "hard",
+    "options": [
+      "Marie Curie",
+      "Galileo Galilei",
+      "Isaac Newton",
+      "Albert Einstein"
+    ],
+    "question": "Who was the first woman to win a Nobel Prize?"
+  },
+  {
+    "correctAnswer": 0,
+    "level": "hard",
+    "options": ["Switzerland", "Sweden", "Norway", "Denmark"],
+    "question": "Which European country is known as the 'Land of the Midnight Sun'?"
+  },
+  {
+    "correctAnswer": 1,
+    "level": "hard",
+    "options": ["Cape Town", "Johannesburg", "Pretoria", "Durban"],
+    "question": "Which city is the legislative capital of South Africa?"
+  },
+  {
+    "correctAnswer": 0,
+    "level": "hard",
+    "options": [
+      "Pacific Ocean",
+      "Indian Ocean",
+      "Atlantic Ocean",
+      "Arctic Ocean"
+    ],
+    "question": "Which ocean is the largest and deepest ocean on Earth?"
+  },
+  {
+    "correctAnswer": 3,
+    "level": "hard",
+    "options": ["Brazil", "Mexico", "Argentina", "Colombia"],
+    "question": "Which South American country has the largest population?"
+  },
+  {
+    "correctAnswer": 2,
+    "level": "hard",
+    "options": [
+      "Niels Bohr",
+      "Erwin Schrödinger",
+      "Werner Heisenberg",
+      "Max Planck"
+    ],
+    "question": "Who formulated the uncertainty principle in quantum mechanics?"
+  },
+  {
+    "correctAnswer": 0,
+    "level": "hard",
+    "options": ["The Himalayas", "The Alps", "The Andes", "The Rockies"],
+    "question": "Which mountain range is home to Mount Everest?"
+  },
+  {
+    "correctAnswer": 1,
+    "level": "hard",
+    "options": ["Brazil", "Russia", "China", "United States"],
+    "question": "Which country is the largest by land area?"
+  },
+  {
+    "correctAnswer": 0,
+    "level": "hard",
+    "options": [
+      "The Mona Lisa",
+      "Starry Night",
+      "The Scream",
+      "The Persistence of Memory"
+    ],
+    "question": "Which painting is housed in the Louvre Museum in Paris?"
+  },
+  {
+    "correctAnswer": 3,
+    "level": "hard",
+    "options": ["El Salvador", "Costa Rica", "Belize", "Panama"],
+    "question": "Which Central American country does not have a coastline on the Pacific Ocean?"
+  },
+  {
+    "correctAnswer": 2,
+    "level": "hard",
+    "options": ["Russia", "Canada", "China", "United States"],
+    "question": "Which country has the longest border with the United States?"
+  },
+  {
+    "correctAnswer": 0,
+    "level": "hard",
+    "options": [
+      "Moby-Dick",
+      "The Great Gatsby",
+      "To Kill a Mockingbird",
+      "War and Peace"
+    ],
+    "question": "Which novel begins with the line 'Call me Ishmael'?"
+  },
+  {
+    "correctAnswer": 1,
+    "level": "hard",
+    "options": [
+      "The Pentagon",
+      "The Kremlin",
+      "The White House",
+      "Buckingham Palace"
+    ],
+    "question": "What is the official residence of the President of Russia?"
+  },
+  {
+    "correctAnswer": 0,
+    "level": "hard",
+    "options": ["Egypt", "Algeria", "Nigeria", "Sudan"],
+    "question": "Which African country is the largest by land area?"
+  },
+  {
+    "correctAnswer": 3,
+    "level": "hard",
+    "options": ["New Zealand", "Australia", "Fiji", "Tonga"],
+    "question": "Which country's flag features the Southern Cross constellation?"
+  },
+  {
+    "correctAnswer": 2,
+    "level": "hard",
+    "options": [
+      "Hannibal",
+      "Julius Caesar",
+      "Alexander the Great",
+      "Attila the Hun"
+    ],
+    "question": "Who famously crossed the Alps with elephants during the Second Punic War?"
+  },
+  {
+    "correctAnswer": 0,
+    "level": "hard",
+    "options": ["China", "India", "Russia", "United States"],
+    "question": "Which country has the largest population in the world?"
+  }
+]

@@ -5,8 +5,8 @@ import TrophyCard from "./TrophyCard";
 import { SparkingBackground } from "../sparking-bg";
 
 export const priceCounter = [
-  "2",
-  "2",
+  "1",
+  "1",
   "2",
   "2",
   "4",

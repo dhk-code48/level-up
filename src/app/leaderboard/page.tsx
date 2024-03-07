@@ -86,9 +86,11 @@ const LeaderBoard = () => {
   }, [kbcPoints]);
 
   return (
-    <div className="subjective dark h-screen text-left px-20 space-y-10 w-screen pt-10 text-white">
+    <div className="subjective dark min-h-screen pb-10 text-left px-5 md:px-20 space-y-10 w-screen pt-10 text-white">
       <div className="w-full flex justify-between items-center">
-        <h1 className="text-5xl">Leaderboard</h1>
+        <h1 className="animate-bounce animate-infinite relative z-10 text-2xl md:text-7xl bg-clip-text text-transparent bg-gradient-to-b from-neutral-200 to-neutral-600 leading-loose text-center font-sans font-bold">
+          Leaderboard
+        </h1>
         <Link
           href={"/quizzy"}
           className={buttonVariants({ variant: "outline" })}
@@ -102,13 +104,13 @@ const LeaderBoard = () => {
           className="w-[400px] dark space-y-5"
         >
           <TabsList>
-            <TabsTrigger className="pb-1 mb-1" value="kbc">
+            <TabsTrigger className="pb-0 mb-0" value="kbc">
               KBC
             </TabsTrigger>
-            <TabsTrigger className="pb-1 mb-1" value="rapidfire">
+            <TabsTrigger className="pb-0 mb-0" value="rapidfire">
               RapidFire
             </TabsTrigger>
-            <TabsTrigger className="pb-1 mb-1" value="quiz">
+            <TabsTrigger className="pb-0 mb-0" value="quiz">
               Quiz
             </TabsTrigger>
           </TabsList>
@@ -117,7 +119,10 @@ const LeaderBoard = () => {
               {kbcPoints.length > 0 &&
                 kbcPoints.map((user) => {
                   return (
-                    <div className="w-[90%] lg:w-[500px] flex justify-between items-center hover:animate-fade hover:bg-gray-900/50 px-5 py-2 rounded-lg cursor-pointer">
+                    <div
+                      key={user.userName}
+                      className="w-[90%] lg:w-[500px] flex justify-between items-center hover:animate-fade hover:bg-gray-900/50 px-5 py-2 rounded-lg cursor-pointer"
+                    >
                       <div className="flex items-center gap-x-3">
                         <Image
                           src={
@@ -126,12 +131,13 @@ const LeaderBoard = () => {
                             ".png?apikey=dHPlXfrUZEcvuO"
                           }
                           width={50}
+                          className="md:w-[50px] w-[20px]"
                           height={50}
                           alt="user avatar"
                         />
                         <p>{user.userName}</p>
                       </div>
-                      <p>{user.points}</p>
+                      <p className="text-sm md:text-lg">{user.points}</p>
                     </div>
                   );
                 })}
@@ -140,9 +146,12 @@ const LeaderBoard = () => {
           <TabsContent value="rapidfire">
             <div className="space-y-5">
               {rapidFireHistory.length > 0 &&
-                rapidFireHistory.map((user) => {
+                rapidFireHistory.map((user, i) => {
                   return (
-                    <div className="w-[90%] lg:w-[1000px] flex justify-between items-center hover:animate-fade hover:bg-gray-900/50 px-5 py-2 rounded-lg cursor-pointer">
+                    <div
+                      key={user[0].userName + i}
+                      className="w-[90%] lg:w-[1000px] lg:grid flex grid-cols-3 lg:flex-row flex-col gap-y-3 lg:bg-transparent bg-slate-500/30 justify-between items-center hover:animate-fade hover:bg-gray-900/50 px-5 py-2 rounded-lg cursor-pointer"
+                    >
                       <div className="flex flex-1 items-center gap-x-3">
                         <Image
                           src={
@@ -150,16 +159,17 @@ const LeaderBoard = () => {
                             user[0].userName.toUpperCase() +
                             ".png?apikey=dHPlXfrUZEcvuO"
                           }
+                          className="md:w-[50px] w-[20px]"
                           width={50}
                           height={50}
                           alt="user avatar"
                         />
-                        <p>{user[0].userName}</p>
+                        <p className="text-sm md:text-lg">{user[0].userName}</p>
                       </div>
                       <div className="flex flex-1 gap-x-3">
-                        <p>{user[0].points}</p>
+                        <p className="text-sm md:text-lg">{user[0].points}</p>
                         <p>Vs</p>
-                        <p>{user[1].points}</p>
+                        <p className="text-sm md:text-lg">{user[1].points}</p>
                       </div>
                       <div className="flex items-center gap-x-3">
                         <Image
@@ -169,6 +179,7 @@ const LeaderBoard = () => {
                             ".png?apikey=dHPlXfrUZEcvuO"
                           }
                           width={50}
+                          className="md:w-[50px] w-[20px]"
                           height={50}
                           alt="user avatar"
                         />
@@ -184,7 +195,10 @@ const LeaderBoard = () => {
               {quizHistory.length > 0 &&
                 quizHistory.map((user) => {
                   return (
-                    <div className="w-[90%] lg:w-[1000px] flex justify-between items-center hover:animate-fade hover:bg-gray-900/50 px-5 py-2 rounded-lg cursor-pointer">
+                    <div
+                      key={user + "name"}
+                      className="w-[90%] lg:w-[1000px] lg:grid grid-cols-3 flex lg:flex-row flex-col gap-y-3 lg:bg-transparent bg-slate-500/30 justify-between items-center hover:animate-fade hover:bg-gray-900/50 px-5 py-2 rounded-lg cursor-pointer"
+                    >
                       <div className="flex flex-1 items-center gap-x-3">
                         <Image
                           src={
@@ -193,15 +207,16 @@ const LeaderBoard = () => {
                             ".png?apikey=dHPlXfrUZEcvuO"
                           }
                           width={50}
+                          className="md:w-[50px] w-[20px]"
                           height={50}
                           alt="user avatar"
                         />
-                        <p>{user[0].userName}</p>
+                        <p className="text-sm md:text-lg">{user[0].userName}</p>
                       </div>
                       <div className="flex flex-1 gap-x-3">
-                        <p>{user[0].points}</p>
+                        <p className="text-sm md:text-lg">{user[0].points}</p>
                         <p>Vs</p>
-                        <p>{user[1].points}</p>
+                        <p className="text-sm md:text-lg">{user[1].points}</p>
                       </div>
                       <div className="flex items-center gap-x-3">
                         <Image
@@ -211,6 +226,7 @@ const LeaderBoard = () => {
                             ".png?apikey=dHPlXfrUZEcvuO"
                           }
                           width={50}
+                          className="md:w-[50px] w-[20px]"
                           height={50}
                           alt="user avatar"
                         />

@@ -1,0 +1,426 @@
+[
+  {
+    "correctAnswer": 3,
+    "level": "extreme",
+    "options": ["El Salvador", "Isaac Newton", "Nikola Tesla", "Benjamin Franklin"],
+    "question": "Who discovered electricity?"
+  },
+  {
+    "correctAnswer": 3,
+    "level": "extreme",
+    "options": ["Munich", "Berlin", "Frankfurt", "Paris"],
+    "question": "In which city was the Treaty of Versailles signed, officially ending World War I?"
+  },
+  {
+    "correctAnswer": 1,
+    "level": "extreme",
+    "options": ["Titanic", "Avatar", "Avengers: Endgame", "Barbie"],
+    "question": "What is the highest-grossing film of all time?"
+  },
+  {
+    "correctAnswer": 3,
+    "level": "extreme",
+    "options": ["Judaism", "Christianity", "Hinduism", "Sikhism"],
+    "question": "Which religion was founded by Guru Nanak in the 15th century in the Punjab region of the Indian subcontinent?"
+  },
+  {
+    "correctAnswer": 3,
+    "level": "extreme",
+    "options": ["Albert Einstein", "Nikola Tesla", "Alexandria", "Thomas Edison"],
+    "question": "Who invented the lightbulb?"
+  },
+  {
+    "correctAnswer": 0,
+    "level": "extreme",
+    "options": ["Brazil", "Argentina", "Colombia", "Peru"],
+    "question": "Which South American country has the largest Japanese population outside of Japan?"
+  },
+  {
+    "correctAnswer": 3,
+    "level": "extreme",
+    "options": ["Arabic", "English", "Bengali", "Bhojpuri"],
+    "question": "Which language is written in the Devanagari script?"
+  },
+  {
+    "correctAnswer": 2,
+    "level": "extreme",
+    "options": [
+      " २०१2 चैत्र १5 गते",
+      " २०१२ चैत्र १6 गते",
+      " २०१२ चैत्र १८ गते",
+      " २०१२ चैत्र १7 गते"
+    ],
+    "question": "त्रिभुवन विश्व बिद्यालयको स्थापनाको घोषणा कहिले भयो ?"
+  },
+  {
+    "correctAnswer": 0,
+    "level": "extreme",
+    "options": ["B.S. 1947", "B.S. 1948", "B.S. 1946", "B.S. 1949"],
+    "question": " When was the Bir Hospital built?"
+  },
+  {
+    "correctAnswer":2,
+    "level": "extreme",
+    "options": ["Prithivi Narayan Shah", "King Tribhuvan", "Jung Bahadur Rana", "BhimseThapa"],
+    "question": " Who is the first Nepali to visit the UK?"
+  },
+  {
+    "correctAnswer": 1,
+    "level": "extreme",
+    "options": ["Tribhuvan", "Trichndra College", "Gandaki Boarding School", "High Durbar"],
+    "question": "Which is the first college in Nepal?"
+  },
+  {
+    "correctAnswer": 0,
+    "level": "extreme",
+    "options": ["Vatican City", "Monaco", "San Marino", "Liechtenstein"],
+    "question": "Which independent state is the smallest in the world by both area and population?"
+  },
+  {
+    "correctAnswer": 3,
+    "level": "extreme",
+    "options": ["Caspian Sea", "Dead Sea", "Aral Sea", "Black Sea"],
+    "question": "Which sea is bordered by six countries: Iran, Russia, Kazakhstan, Turkmenistan, Azerbaijan, and Iran?"
+  },
+  {
+    "correctAnswer": 0,
+    "level": "extreme",
+    "options": ["King Tribhuvan", "Prithivi Narayan Shah", "Khadak Shamser", "Bhimsen Thapa"],
+    "question": "Who built the Rani Mahal in Palpa?"
+  },
+  {
+    "correctAnswer": 1,
+    "level": "extreme",
+    "options": ["Prachandev", "Khadak Shamser", "Bhimsen Thapa", "King Tribhuvan"],
+    "question": "Who built the Pashupatinath Temple?"
+  },
+  {
+    "correctAnswer": 3,
+    "level": "extreme",
+    "options": ["GTA 5", "Minecraft", "Mario Cart", "Tetris"],
+    "question": "Which is the most saled video game?"
+  },
+  {
+    "correctAnswer": 2,
+    "level": "extreme",
+    "options": ["China", "USA", "India", "Japan"],
+    "question": "Which country started chess"
+  },
+  {
+    "correctAnswer": 1,
+    "level": "extreme",
+    "options": ["Portugal", "Netherlands", "Spain", "France"],
+    "question": "Which European country colonized Indonesia?"
+  },
+  {
+    "correctAnswer": 0,
+    "level": "extreme",
+    "options": ["Morocco", "Egypt", "Sudan", "Tunisia"],
+    "question": "Which African country is known as the 'Land of the Pharaohs'?"
+  },
+  {
+    "correctAnswer": 3,
+    "level": "extreme",
+    "options": ["Pythagoras", "Plato", "Aristotle", "Socrates"],
+    "question": "Who is known as the 'Father of Western Philosophy'?"
+  },
+  {
+    "correctAnswer": 1,
+    "level": "extreme",
+    "options": [
+      "Kaski",
+      "Dolap",
+      "Kathmandu",
+      "Chitwan"
+    ],
+    "question": "Which is the largest district of Nepal"
+  },
+  {
+    "correctAnswer": 2,
+    "level": "extreme",
+    "options": [
+      "Ilam",
+      "Dolap",
+      "Bhaktapur",
+      "Chitwan"
+    ],
+    "question": "Which is the smallest district of Nepal"
+  },
+  {
+    "correctAnswer": 0,
+    "level": "extreme",
+    "options": [
+      "Hans Christian Andersen",
+      "The Brothers Grimm",
+      "Charles Perrault",
+      "Aesop"
+    ],
+    "question": "Who wrote the fairy tale 'The Little Mermaid'?"
+  },
+  {
+    "correctAnswer": 2,
+    "level": "extreme",
+    "options": [
+      "113",
+      "112",
+      "123",
+      "122"
+    ],
+    "question": "About how many languages are spoken in Nepal?"
+  },
+  {
+    "correctAnswer": 0,
+    "level": "extreme",
+    "options": ["Magar", "Brahmin", "Islam", "Hindu"],
+    "question": "मनकामना मन्दिरमा कुन जातिको व्यक्ति पुजारी रहने प्रचलन छ ?"
+  },
+  {
+    "correctAnswer": 1,
+    "level": "extreme",
+    "options": ["Bidhya devi Bhandari ", "Sirimavo Bandaranaike", "Rejoicer	Vietnamese", "Skylar"],
+    "question": "विश्वकै पहिलो महिला प्रधानमन्त्रिको रुपमा निर्वाचित हुने को हुन् ?"
+  },
+  {
+    "correctAnswer": 0,
+    "level": "extreme",
+    "options": ["Chad", "Niger", "Mali", "Burkina Faso"],
+    "question": "Which African country's flag consists of three vertical stripes of blue, yellow, and red?"
+  },
+  {
+    "correctAnswer": 2,
+    "level": "extreme",
+    "options": ["Gujarat", "Maharashtra", "West Bengal", "Bihar"],
+    "question": "In which Indian state is the city of Kolkata located?"
+  },
+  {
+    "correctAnswer": 0,
+    "level": "extreme",
+    "options": ["Oman", "Kuwait", "Saudi Arabia", "United Arab Emirates"],
+    "question": "Which Arab country is known as the 'Land of Frankincense'?"
+  },
+  {
+    "correctAnswer": 1,
+    "level": "extreme",
+    "options": ["Vesuvius", "Mount Tambora", "Krakatoa", "Mount St. Helens"],
+    "question": "Which volcano's eruption in 1815 is considered the most powerful in recorded history?"
+  },
+  {
+    "correctAnswer": 0,
+    "level": "extreme",
+    "options": ["North Korea", "South Korea", "China", "Japan"],
+    "question": "Which country is known as the 'Hermit Kingdom'?"
+  },
+  {
+    "correctAnswer": 2,
+    "level": "extreme",
+    "options": ["Bahrain", "Qatar", "Kuwait", "Oman"],
+    "question": "Which Arab country is connected to Saudi Arabia by the King Fahd Causeway?"
+  },
+  {
+    "correctAnswer": 0,
+    "level": "extreme",
+    "options": ["Bhutan", "Nepal", "Bangladesh", "Sri Lanka"],
+    "question": "Which South Asian country is known as the 'Land of the Thunder Dragon'?"
+  },
+  {
+    "correctAnswer": 1,
+    "level": "extreme",
+    "options": ["Sudan", "South Sudan", "Ethiopia", "Somalia"],
+    "question": "Which African country is the largest by land area?"
+  },
+  {
+    "correctAnswer": 2,
+    "level": "extreme",
+    "options": ["Singapore", "Malaysia", "Thailand", "Indonesia"],
+    "question": "Which Southeast Asian country is known as the 'Land of Smiles'?"
+  },
+  {
+    "correctAnswer": 3,
+    "level": "extreme",
+    "options": ["Australia", "Madagascar", "Greenland", "Borneo"],
+    "question": "Which island is the third-largest in the world by land area?"
+  },
+  {
+    "correctAnswer": 0,
+    "level": "extreme",
+    "options": ["Sudan", "South Sudan", "Ethiopia", "Somalia"],
+    "question": "Which African country is the youngest country in the world, having gained independence in 2011?"
+  },
+  {
+    "correctAnswer": 1,
+    "level": "extreme",
+    "options": [
+      "Ferdinand Magellan",
+      "Christopher Columbus",
+      "Vasco da Gama",
+      "James Cook"
+    ],
+    "question": "Who was the first European explorer to reach India by sea?"
+  },
+  {
+    "correctAnswer": 0,
+    "level": "extreme",
+    "options": ["July 28, 1914", "Jun 28, 1924", "Jun 28, 1914", "July 28, 1924"],
+    "question": "When was world war 1 started"
+  },
+  {
+    "correctAnswer": 3,
+    "level": "extreme",
+    "options": ["November 1, 1949", "September 1, 1949", "November 1, 1939", "September 1, 1939"],
+    "question": "When was world war 2 started"
+  },
+ {
+    "correctAnswer": 3,
+    "level": "extreme",
+    "options": [
+      "Winston Churchill",
+      "Franklin D. Roosevelt",
+      "Joseph Stalin",
+      "Hideki Tojo"
+    ],
+    "question": "Who was the Prime Minister of Japan during World War II?"
+  },
+  {
+    "correctAnswer": 0,
+    "level": "extreme",
+    "options": [
+      "Soviet Union",
+      "United States",
+      "Germany",
+      "Japan"
+    ],
+    "question": "Which country suffered the highest number of casualties during World War II?"
+  },
+  {
+    "correctAnswer": 0,
+    "level": "extreme",
+    "options": [
+      "Polland",
+      "Germany",
+      "United Kingdom",
+      "United States"
+    ],
+    "question": "Which country di German invade, leading to the start of World War II?"
+  },
+  {
+    "correctAnswer": 0,
+    "level": "extreme",
+    "options": [
+      "United States",
+      "Soviet Union",
+      "Germany",
+      "Japan"
+    ],
+    "question": "Which country dropped atomic bombs on Hiroshima and Nagasaki?"
+  },
+  {
+    "correctAnswer": 2,
+    "level": "extreme",
+    "options": [
+      "Battle of Stalingrad",
+      "Battle of Midway",
+      "Battle of Kursk",
+      "Battle of Okinawa"
+    ],
+    "question": "Which battle is considered the largest land battle in history by terms of raw manpower and tank engagement?"
+  },
+ {
+    "correctAnswer": 0,
+    "level": "extreme",
+    "options": [
+      "Mumbai",
+      "Kolkata",
+      "Chennai",
+      "Delhi"
+    ],
+    "question": "Which city is known as the 'City of Dreams'?"
+  },
+  {
+    "correctAnswer": 0,
+    "level": "extreme",
+    "options": [
+      "Lake Superior",
+      "Lake Victoria",
+      "Great Bear Lake",
+      "Caspian Sea"
+    ],
+    "question": "Which lake is the largest freshwater lake by surface area in the world?"
+  },
+  {
+    "correctAnswer": 0,
+    "level": "extreme",
+    "options": [
+      "Kathmandu",
+      "Pokhara",
+      "Lalitpur",
+      "Bhaktapur"
+    ],
+    "question": "Which city is known as the 'City of Temples'?"
+  },
+  {
+    "correctAnswer": 1,
+    "level": "extreme",
+    "options": [
+      "Sanskrit",
+      "Pali",
+      "Prakrit",
+      "Magadhi"
+    ],
+    "question": "Which ancient language is associated with the Buddhist scriptures?"
+  },
+  {
+    "correctAnswer": 0,
+    "level": "extreme",
+    "options": [
+      "One Horn Rhino",
+      "Cow",
+      "Danfe",
+      "Snow Leopard"
+    ],
+    "question": "Which animal is the national symbol of Nepal?"
+  },
+ {
+    "correctAnswer": 1,
+    "level": "extreme",
+    "options": [
+      "Janai Purnima",
+      "Tihar",
+      "Holi",
+      "Dashain"
+    ],
+    "question": "Which festival in Nepal celebrates the bond between brothers and sisters?"
+  },
+  {
+    "correctAnswer": 0,
+    "level": "extreme",
+    "options": [
+      "Annapurna Circuit",
+      "Manaslu Circuit",
+      "Everest Base Camp",
+      "Langtang Valley"
+    ],
+    "question": "Which trekking route in Nepal is known as the 'Teahouse Trek'?"
+  },
+  {
+    "correctAnswer": 3,
+    "level": "extreme",
+    "options": [
+      "Nepal",
+      "India",
+      "China",
+      "Pakistan"
+    ],
+    "question": "Which country does not share a border with Nepal?"
+  },
+  {
+    "correctAnswer": 3,
+    "level": "extreme",
+    "options": [
+      "Nepal",
+      "Bhutan",
+      "Bangladesh",
+      "China"
+    ],
+    "question": "Which country is not a member of SAARC (South Asian Association for Regional Cooperation)?"
+  },
+]

@@ -6,7 +6,10 @@ const RoomMembers = ({ members }: { members: string[] }) => {
     <div className="flex flex-col p-3 px-8 rounded-md gap-y-2">
       <div className="text-2xl space-y-5">
         {members.map((member, i) => (
-          <div className="flex gap-x-5 items-center justify-start text-white">
+          <div
+            key={member + i + 1}
+            className="flex gap-x-5 items-center justify-start text-white"
+          >
             <Image
               src={
                 "https://api.multiavatar.com/" +

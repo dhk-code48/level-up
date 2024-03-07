@@ -6,17 +6,14 @@ import RoomMembers from "@/components/rapidfire/RoomMembers";
 import { useRouter } from "next/navigation";
 import Link from "next/link";
 import { UserContext } from "@/context/ContextProvider";
-import { Button } from "@/components/ui/button";
-import Game from "@/components/rapidfire/Game";
+import { Button, buttonVariants } from "@/components/ui/button";
+
 import { onValue, ref, set } from "firebase/database";
 import { db } from "@/firebase/config";
 import Image from "next/image";
 import TrophyCard from "@/components/kbc/TrophyCard";
 
-const serverUrl =
-  process.env.NODE_ENV === "production"
-    ? "https://next-paint-io.onrender.com"
-    : "http://129.150.50.164:3001";
+const serverUrl = "http://129.150.50.164:3001";
 
 const socket = io(serverUrl);
 
@@ -34,6 +31,7 @@ const Room = ({ params }: ParamsProps) => {
   const router = useRouter();
   const [startGame, setStartGame] = useState<boolean>(false);
   const [finishGame, setFinishGame] = useState<boolean>(false);
+  const [disableAllOption, setDisableAllOption] = useState<boolean>(false);
   const [questions, setQuestions] = useState<question[] | null>(null);
   const [bgColors, setBgColors] = useState<string[]>([
     "#ff996d",
@@ -138,7 +136,7 @@ const Room = ({ params }: ParamsProps) => {
   const [counter, setCounter] = useState<number>(0);
 
   useEffect(() => {
-    socket.on("updateCounter", ({ roomId, index, userName, correct }) => {
+    socket.on("updateCounter", ({ roomId, index, userName, correct,counter }) => {
       if (!questions) {
         console.log("NO QUESTIONS");
         return;
@@ -165,6 +163,8 @@ const Room = ({ params }: ParamsProps) => {
         setBgColors(bg);
       }
 
+      setDisableAllOption(true);
+
       setTimeout(() => {
         setCounter((prev) => {
           if (prev + 1 === questions.length) {
@@ -177,6 +177,7 @@ const Room = ({ params }: ParamsProps) => {
       }, 1000);
 
       setTimeout(() => {
+        setDisableAllOption(false);
         setBgColors(["#ff996d", "#ffea00", "#bcffdd", "#0aefff"]);
         setAnswerBy({ index: 0, name: "" });
         setTimer(30);
@@ -200,7 +201,7 @@ const Room = ({ params }: ParamsProps) => {
     return () => {
       clearInterval(intervalId); // Clear the interval when the component unmounts or conditions change
     };
-  }, [startGame, questions]);
+  }, [ startGame, questions]);
 
   useEffect(() => {
     if (timer === 0 && questions) {
@@ -209,13 +210,14 @@ const Room = ({ params }: ParamsProps) => {
         index: parseInt(questions[counter].correctAnswer),
         userName: "",
         correct: true,
+        counter:counter
       });
     }
   }, [timer, questions]);
-  useEffect(() => {
-    console.log("membersState[0]=> ", finalPoints[membersState[0]].points);
-    console.log("membersState[1] => ", finalPoints[membersState[1]].points);
-  }, [finalPoints]);
+  // useEffect(() => {
+  //   console.log("membersState[0]=> ", finalPoints[membersState[0]].points);
+  //   console.log("membersState[1] => ", finalPoints[membersState[1]].points);
+  // }, [finalPoints]);
   // useEffect(() => {
   //   if (timer <= 0) {
   //     setTimeout(() => {
@@ -288,6 +290,20 @@ const Room = ({ params }: ParamsProps) => {
                       );
                     })}
                 </div>
+                <div className="space-x-5 fixed w-screen flex items-center justify-center gap-x-5 bottom-10 left-auto right-auto z-50">
+                    <Button
+                      onClick={()=>router.push("/quizzy/quiz")}
+                      className={buttonVariants({ className: "bg-green-500" })}
+                    >
+                      Play Again
+                    </Button>
+                    <Button
+                      onClick={()=>router.push("/leaderboard")}
+                      className={buttonVariants({ className: "bg-blue-500" })}
+                    >
+                      Leaderboard
+                    </Button>
+                  </div>
               </div>
             </div>
           )}
@@ -316,6 +332,7 @@ const Room = ({ params }: ParamsProps) => {
                   <div className="flex gap-20 mt-20 flex-wrap items-center justify-center">
                     {questions[counter].options.map((opt, index) => (
                       <button
+                        disabled={disableAllOption}
                         key={opt}
                         onClick={() => {
                           if (
@@ -353,6 +370,7 @@ const Room = ({ params }: ParamsProps) => {
                               return prev - 50 < 0 ? prev : prev - 50;
                             });
                           }
+
                           socket.emit("updateCounter", {
                             roomId: roomId,
                             index: index,
@@ -360,6 +378,7 @@ const Room = ({ params }: ParamsProps) => {
                             correct:
                               index ===
                               parseInt(questions[counter].correctAnswer),
+                              counter:counter
                           });
                         }}
                         className="animate-fade-up disabled:bg-gray-100 text-black w-[300px] h-[60px] text-lg font-bold relative"
